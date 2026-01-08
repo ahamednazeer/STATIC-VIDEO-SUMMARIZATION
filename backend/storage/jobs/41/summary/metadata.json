@@ -1,0 +1,958 @@
+{
+  "job_id": 41,
+  "video_filename": "Red_Dead_Redemption_2_Trailer_1080p.mp4",
+  "video_duration": 68.3,
+  "total_frames_original": 2047,
+  "frames_after_filtering": 33,
+  "num_clusters": 15,
+  "keyframes": [
+    {
+      "index": 1,
+      "frame_id": 243,
+      "timestamp": 8.1081,
+      "timestamp_formatted": "00:08",
+      "cluster_id": 6,
+      "distance_to_centroid": 0.024954,
+      "path": "summary/keyframe_001.jpg",
+      "importance_score": 0.5373,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.09,
+        "representativeness": 1.0,
+        "visual_richness": 0.08,
+        "dominance": 0.5,
+        "temporal_coverage": 0.682,
+        "visual_novelty": 0.7
+      },
+      "deep_analysis": {
+        "objects": [
+          {
+            "label": "Nature and trees",
+            "score": 0.54248046875
+          },
+          {
+            "label": "Frying pan",
+            "score": 0.209228515625
+          }
+        ],
+        "actions": [
+          {
+            "label": "Walking outside",
+            "score": 0.378173828125
+          },
+          {
+            "label": "Talking to camera",
+            "score": 0.1705322265625
+          }
+        ],
+        "environment": [
+          {
+            "label": "Dimly lit environment",
+            "score": 0.6240234375
+          },
+          {
+            "label": "Natural outdoor setting",
+            "score": 0.16796875
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Blurry background",
+            "score": 0.248779296875
+          },
+          {
+            "label": "Soft lighting",
+            "score": 0.2265625
+          }
+        ]
+      },
+      "context": "Walking outside featuring nature and trees."
+    },
+    {
+      "index": 2,
+      "frame_id": 374,
+      "timestamp": 12.479133333333333,
+      "timestamp_formatted": "00:12",
+      "cluster_id": 12,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_002.jpg",
+      "importance_score": 0.6191,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.498,
+        "representativeness": 1.0,
+        "visual_richness": 0.122,
+        "dominance": 0.167,
+        "temporal_coverage": 0.682,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "objects": [
+          {
+            "label": "Nature and trees",
+            "score": 0.6865234375
+          },
+          {
+            "label": "Frying pan",
+            "score": 0.125
+          }
+        ],
+        "actions": [
+          {
+            "label": "Preparing meal",
+            "score": 0.370361328125
+          },
+          {
+            "label": "Talking to camera",
+            "score": 0.138427734375
+          }
+        ],
+        "environment": [
+          {
+            "label": "Natural outdoor setting",
+            "score": 0.52978515625
+          },
+          {
+            "label": "Dimly lit environment",
+            "score": 0.2042236328125
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Warm tones",
+            "score": 0.337890625
+          },
+          {
+            "label": "Soft lighting",
+            "score": 0.243408203125
+          }
+        ]
+      },
+      "context": "Preparing meal featuring nature and trees."
+    },
+    {
+      "index": 3,
+      "frame_id": 449,
+      "timestamp": 14.981633333333333,
+      "timestamp_formatted": "00:14",
+      "cluster_id": 20,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_003.jpg",
+      "importance_score": 0.6242,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.506,
+        "representativeness": 1.0,
+        "visual_richness": 0.143,
+        "dominance": 0.167,
+        "temporal_coverage": 0.682,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "objects": [
+          {
+            "label": "Frying pan",
+            "score": 0.4140625
+          },
+          {
+            "label": "Street",
+            "score": 0.232177734375
+          }
+        ],
+        "actions": [
+          {
+            "label": "Talking to camera",
+            "score": 0.2325439453125
+          },
+          {
+            "label": "Walking outside",
+            "score": 0.215087890625
+          }
+        ],
+        "environment": [
+          {
+            "label": "Dimly lit environment",
+            "score": 0.40283203125
+          },
+          {
+            "label": "Outdoor daylight",
+            "score": 0.38427734375
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Soft lighting",
+            "score": 0.487548828125
+          },
+          {
+            "label": "Warm tones",
+            "score": 0.18505859375
+          }
+        ]
+      },
+      "context": "Talking to camera featuring frying pan."
+    },
+    {
+      "index": 4,
+      "frame_id": 529,
+      "timestamp": 17.650966666666665,
+      "timestamp_formatted": "00:17",
+      "cluster_id": 19,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_004.jpg",
+      "importance_score": 0.6117,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.482,
+        "representativeness": 1.0,
+        "visual_richness": 0.093,
+        "dominance": 0.167,
+        "temporal_coverage": 0.682,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "objects": [
+          {
+            "label": "Nature and trees",
+            "score": 0.93603515625
+          },
+          {
+            "label": "Frying pan",
+            "score": 0.035186767578125
+          }
+        ],
+        "actions": [
+          {
+            "label": "Walking outside",
+            "score": 0.62646484375
+          },
+          {
+            "label": "Talking to camera",
+            "score": 0.110595703125
+          }
+        ],
+        "environment": [
+          {
+            "label": "Dimly lit environment",
+            "score": 0.765625
+          },
+          {
+            "label": "Outdoor daylight",
+            "score": 0.1416015625
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Soft lighting",
+            "score": 0.74462890625
+          },
+          {
+            "label": "Fast paced motion",
+            "score": 0.0784912109375
+          }
+        ]
+      },
+      "context": "Walking outside featuring nature and trees."
+    },
+    {
+      "index": 5,
+      "frame_id": 682,
+      "timestamp": 22.756066666666666,
+      "timestamp_formatted": "00:22",
+      "cluster_id": 18,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_005.jpg",
+      "importance_score": 0.6314,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.629,
+        "representativeness": 1.0,
+        "visual_richness": 0.085,
+        "dominance": 0.167,
+        "temporal_coverage": 0.682,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "objects": [
+          {
+            "label": "Nature and trees",
+            "score": 0.8798828125
+          },
+          {
+            "label": "Frying pan",
+            "score": 0.052032470703125
+          }
+        ],
+        "actions": [
+          {
+            "label": "Pouring liquid",
+            "score": 0.32177734375
+          },
+          {
+            "label": "Walking outside",
+            "score": 0.27099609375
+          }
+        ],
+        "environment": [
+          {
+            "label": "Dimly lit environment",
+            "score": 0.787109375
+          },
+          {
+            "label": "Natural outdoor setting",
+            "score": 0.091064453125
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Soft lighting",
+            "score": 0.544921875
+          },
+          {
+            "label": "Blurry background",
+            "score": 0.20361328125
+          }
+        ]
+      },
+      "context": "Pouring liquid featuring nature and trees."
+    },
+    {
+      "index": 6,
+      "frame_id": 910,
+      "timestamp": 30.363666666666667,
+      "timestamp_formatted": "00:30",
+      "cluster_id": 10,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_006.jpg",
+      "importance_score": 0.6924,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.788,
+        "representativeness": 1.0,
+        "visual_richness": 0.231,
+        "dominance": 0.167,
+        "temporal_coverage": 0.736,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "objects": [
+          {
+            "label": "Frying pan",
+            "score": 0.28515625
+          },
+          {
+            "label": "Hand holding an object",
+            "score": 0.208740234375
+          }
+        ],
+        "actions": [
+          {
+            "label": "Preparing meal",
+            "score": 0.51025390625
+          },
+          {
+            "label": "Pouring liquid",
+            "score": 0.1290283203125
+          }
+        ],
+        "environment": [
+          {
+            "label": "Natural outdoor setting",
+            "score": 0.282958984375
+          },
+          {
+            "label": "Dimly lit environment",
+            "score": 0.278564453125
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Fast paced motion",
+            "score": 0.525390625
+          },
+          {
+            "label": "Soft lighting",
+            "score": 0.136962890625
+          }
+        ]
+      },
+      "context": "Preparing meal featuring frying pan."
+    },
+    {
+      "index": 7,
+      "frame_id": 986,
+      "timestamp": 32.89953333333333,
+      "timestamp_formatted": "00:32",
+      "cluster_id": 17,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_007.jpg",
+      "importance_score": 0.6777,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.779,
+        "representativeness": 1.0,
+        "visual_richness": 0.156,
+        "dominance": 0.167,
+        "temporal_coverage": 0.736,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "objects": [
+          {
+            "label": "Nature and trees",
+            "score": 0.6689453125
+          },
+          {
+            "label": "Frying pan",
+            "score": 0.12371826171875
+          }
+        ],
+        "actions": [
+          {
+            "label": "Preparing meal",
+            "score": 0.37939453125
+          },
+          {
+            "label": "Talking to camera",
+            "score": 0.137451171875
+          }
+        ],
+        "environment": [
+          {
+            "label": "Dimly lit environment",
+            "score": 0.48046875
+          },
+          {
+            "label": "Natural outdoor setting",
+            "score": 0.357177734375
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Warm tones",
+            "score": 0.345947265625
+          },
+          {
+            "label": "Soft lighting",
+            "score": 0.245361328125
+          }
+        ]
+      },
+      "context": "Preparing meal featuring nature and trees."
+    },
+    {
+      "index": 8,
+      "frame_id": 1064,
+      "timestamp": 35.50213333333333,
+      "timestamp_formatted": "00:35",
+      "cluster_id": 4,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_008.jpg",
+      "importance_score": 0.6895,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.789,
+        "representativeness": 1.0,
+        "visual_richness": 0.213,
+        "dominance": 0.167,
+        "temporal_coverage": 0.736,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "objects": [
+          {
+            "label": "Frying pan",
+            "score": 0.37939453125
+          },
+          {
+            "label": "Nature and trees",
+            "score": 0.3349609375
+          }
+        ],
+        "actions": [
+          {
+            "label": "Driving car",
+            "score": 0.5771484375
+          },
+          {
+            "label": "Preparing meal",
+            "score": 0.11541748046875
+          }
+        ],
+        "environment": [
+          {
+            "label": "Natural outdoor setting",
+            "score": 0.37841796875
+          },
+          {
+            "label": "Busy public place",
+            "score": 0.268310546875
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Fast paced motion",
+            "score": 0.8203125
+          },
+          {
+            "label": "Blurry background",
+            "score": 0.10107421875
+          }
+        ]
+      },
+      "context": "Driving car featuring frying pan."
+    },
+    {
+      "index": 9,
+      "frame_id": 1140,
+      "timestamp": 38.038000000000004,
+      "timestamp_formatted": "00:38",
+      "cluster_id": 16,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_009.jpg",
+      "importance_score": 0.708,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.957,
+        "representativeness": 1.0,
+        "visual_richness": 0.179,
+        "dominance": 0.167,
+        "temporal_coverage": 0.736,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "objects": [
+          {
+            "label": "Hand holding an object",
+            "score": 0.18701171875
+          },
+          {
+            "label": "Laptop screen",
+            "score": 0.1624755859375
+          }
+        ],
+        "actions": [
+          {
+            "label": "Driving car",
+            "score": 0.6796875
+          },
+          {
+            "label": "Working on computer",
+            "score": 0.1639404296875
+          }
+        ],
+        "environment": [
+          {
+            "label": "Outdoor daylight",
+            "score": 0.3173828125
+          },
+          {
+            "label": "Dimly lit environment",
+            "score": 0.2548828125
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Fast paced motion",
+            "score": 0.6767578125
+          },
+          {
+            "label": "Busy",
+            "score": 0.1534423828125
+          }
+        ]
+      },
+      "context": "Driving car featuring hand holding an object."
+    },
+    {
+      "index": 10,
+      "frame_id": 1216,
+      "timestamp": 40.57386666666667,
+      "timestamp_formatted": "00:40",
+      "cluster_id": 0,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_010.jpg",
+      "importance_score": 0.6983,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 1.0,
+        "representativeness": 1.0,
+        "visual_richness": 0.098,
+        "dominance": 0.167,
+        "temporal_coverage": 0.736,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "objects": [
+          {
+            "label": "Hand holding an object",
+            "score": 0.340576171875
+          },
+          {
+            "label": "Frying pan",
+            "score": 0.13330078125
+          }
+        ],
+        "actions": [
+          {
+            "label": "Preparing meal",
+            "score": 0.19091796875
+          },
+          {
+            "label": "Walking outside",
+            "score": 0.18212890625
+          }
+        ],
+        "environment": [
+          {
+            "label": "Outdoor daylight",
+            "score": 0.37646484375
+          },
+          {
+            "label": "Dimly lit environment",
+            "score": 0.2469482421875
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Blurry background",
+            "score": 0.4677734375
+          },
+          {
+            "label": "Fast paced motion",
+            "score": 0.1981201171875
+          }
+        ]
+      },
+      "context": "Preparing meal featuring hand holding an object."
+    },
+    {
+      "index": 11,
+      "frame_id": 1370,
+      "timestamp": 45.71233333333333,
+      "timestamp_formatted": "00:45",
+      "cluster_id": 15,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_011.jpg",
+      "importance_score": 0.6195,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.883,
+        "representativeness": 1.0,
+        "visual_richness": 0.083,
+        "dominance": 0.167,
+        "temporal_coverage": 0.347,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "objects": [
+          {
+            "label": "Frying pan",
+            "score": 0.50048828125
+          },
+          {
+            "label": "Cooking pot",
+            "score": 0.1702880859375
+          }
+        ],
+        "actions": [
+          {
+            "label": "Pouring liquid",
+            "score": 0.5517578125
+          },
+          {
+            "label": "Walking outside",
+            "score": 0.1417236328125
+          }
+        ],
+        "environment": [
+          {
+            "label": "Dimly lit environment",
+            "score": 0.970703125
+          },
+          {
+            "label": "Outdoor daylight",
+            "score": 0.01012420654296875
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Fast paced motion",
+            "score": 0.405517578125
+          },
+          {
+            "label": "Blurry background",
+            "score": 0.341552734375
+          }
+        ]
+      },
+      "context": "Pouring liquid featuring frying pan."
+    },
+    {
+      "index": 12,
+      "frame_id": 1598,
+      "timestamp": 53.31993333333333,
+      "timestamp_formatted": "00:53",
+      "cluster_id": 9,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_012.jpg",
+      "importance_score": 0.6043,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.831,
+        "representativeness": 1.0,
+        "visual_richness": 0.124,
+        "dominance": 0.167,
+        "temporal_coverage": 0.347,
+        "visual_novelty": 0.9
+      },
+      "deep_analysis": {
+        "objects": [
+          {
+            "label": "Frying pan",
+            "score": 0.3056640625
+          },
+          {
+            "label": "Street",
+            "score": 0.27392578125
+          }
+        ],
+        "actions": [
+          {
+            "label": "Walking outside",
+            "score": 0.45263671875
+          },
+          {
+            "label": "Preparing meal",
+            "score": 0.1639404296875
+          }
+        ],
+        "environment": [
+          {
+            "label": "Busy public place",
+            "score": 0.265625
+          },
+          {
+            "label": "Outdoor daylight",
+            "score": 0.1943359375
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Fast paced motion",
+            "score": 0.65771484375
+          },
+          {
+            "label": "Blurry background",
+            "score": 0.149169921875
+          }
+        ]
+      },
+      "context": "Walking outside featuring frying pan."
+    },
+    {
+      "index": 13,
+      "frame_id": 1631,
+      "timestamp": 54.421033333333334,
+      "timestamp_formatted": "00:54",
+      "cluster_id": 2,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_013.jpg",
+      "importance_score": 0.5322,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.681,
+        "representativeness": 1.0,
+        "visual_richness": 0.098,
+        "dominance": 0.167,
+        "temporal_coverage": 0.347,
+        "visual_novelty": 0.6
+      },
+      "deep_analysis": {
+        "objects": [
+          {
+            "label": "Frying pan",
+            "score": 0.209716796875
+          },
+          {
+            "label": "Food being prepared",
+            "score": 0.1353759765625
+          }
+        ],
+        "actions": [
+          {
+            "label": "Pouring liquid",
+            "score": 0.28955078125
+          },
+          {
+            "label": "Preparing meal",
+            "score": 0.232666015625
+          }
+        ],
+        "environment": [
+          {
+            "label": "Dimly lit environment",
+            "score": 0.292236328125
+          },
+          {
+            "label": "Outdoor daylight",
+            "score": 0.26611328125
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Fast paced motion",
+            "score": 0.6083984375
+          },
+          {
+            "label": "Blurry background",
+            "score": 0.1336669921875
+          }
+        ]
+      },
+      "context": "Pouring liquid featuring frying pan."
+    },
+    {
+      "index": 14,
+      "frame_id": 1698,
+      "timestamp": 56.656600000000005,
+      "timestamp_formatted": "00:56",
+      "cluster_id": 1,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_014.jpg",
+      "importance_score": 0.5152,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.231,
+        "representativeness": 1.0,
+        "visual_richness": 0.126,
+        "dominance": 0.167,
+        "temporal_coverage": 0.347,
+        "visual_novelty": 0.9
+      },
+      "deep_analysis": {
+        "objects": [
+          {
+            "label": "Nature and trees",
+            "score": 0.4814453125
+          },
+          {
+            "label": "Frying pan",
+            "score": 0.1827392578125
+          }
+        ],
+        "actions": [
+          {
+            "label": "Driving car",
+            "score": 0.274169921875
+          },
+          {
+            "label": "Pouring liquid",
+            "score": 0.2418212890625
+          }
+        ],
+        "environment": [
+          {
+            "label": "Natural outdoor setting",
+            "score": 0.465576171875
+          },
+          {
+            "label": "Outdoor daylight",
+            "score": 0.260986328125
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Fast paced motion",
+            "score": 0.391357421875
+          },
+          {
+            "label": "Blurry background",
+            "score": 0.268798828125
+          }
+        ]
+      },
+      "context": "Driving car featuring nature and trees."
+    },
+    {
+      "index": 15,
+      "frame_id": 1746,
+      "timestamp": 58.2582,
+      "timestamp_formatted": "00:58",
+      "cluster_id": 7,
+      "distance_to_centroid": 0.024625,
+      "path": "summary/keyframe_015.jpg",
+      "importance_score": 0.5024,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.129,
+        "representativeness": 1.0,
+        "visual_richness": 0.126,
+        "dominance": 0.8,
+        "temporal_coverage": 0.347,
+        "visual_novelty": 0.5
+      },
+      "deep_analysis": {
+        "objects": [
+          {
+            "label": "Nature and trees",
+            "score": 0.4375
+          },
+          {
+            "label": "Frying pan",
+            "score": 0.223388671875
+          }
+        ],
+        "actions": [
+          {
+            "label": "Walking outside",
+            "score": 0.2379150390625
+          },
+          {
+            "label": "Driving car",
+            "score": 0.182373046875
+          }
+        ],
+        "environment": [
+          {
+            "label": "Natural outdoor setting",
+            "score": 0.475830078125
+          },
+          {
+            "label": "Dimly lit environment",
+            "score": 0.27978515625
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Blurry background",
+            "score": 0.334228515625
+          },
+          {
+            "label": "Soft lighting",
+            "score": 0.2369384765625
+          }
+        ]
+      },
+      "context": "Walking outside featuring nature and trees."
+    }
+  ],
+  "generated_at": "2026-01-08T21:53:21.556426",
+  "output_format": "jpg",
+  "grid_path": "summary/storyboard.jpg",
+  "video_pacing": "Moderate",
+  "summary_confidence": "HIGH",
+  "stability_ratio": 0.92,
+  "importance_weights": {
+    "representativeness": 0.25,
+    "dominance": 0.1,
+    "visual_richness": 0.2,
+    "temporal_coverage": 0.15,
+    "visual_novelty": 0.15,
+    "motion_context": 0.15
+  },
+  "compression_ratio": 2.28,
+  "redundancy_removed": 0.5455,
+  "temporal_coverage_score": 0.59,
+  "summary_reason": "Balanced content summarized into 15 key moments (~0.22 keyframes/sec)."
+}

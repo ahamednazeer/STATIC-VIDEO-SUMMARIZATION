@@ -1,0 +1,442 @@
+{
+  "job_id": 24,
+  "video_filename": "Matka Chicken.mp4",
+  "video_duration": 20.866666666666667,
+  "total_frames_original": 626,
+  "frames_after_filtering": 26,
+  "num_clusters": 22,
+  "keyframes": [
+    {
+      "index": 1,
+      "frame_id": 90,
+      "timestamp": 3.0,
+      "timestamp_formatted": "00:03",
+      "cluster_id": 5,
+      "distance_to_centroid": 0.067963,
+      "path": "summary/keyframe_001.jpg",
+      "importance_score": 0.45,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "visual_richness": 0.657,
+        "motion_context": 1.0,
+        "representativeness": 1.0,
+        "dominance": 0.667,
+        "temporal_coverage": 1.0,
+        "visual_novelty": 0.8
+      }
+    },
+    {
+      "index": 2,
+      "frame_id": 105,
+      "timestamp": 3.5,
+      "timestamp_formatted": "00:03",
+      "cluster_id": 7,
+      "distance_to_centroid": 0.043075,
+      "path": "summary/keyframe_002.jpg",
+      "importance_score": 0.45,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "visual_richness": 0.797,
+        "motion_context": 0.638,
+        "representativeness": 1.0,
+        "dominance": 0.667,
+        "temporal_coverage": 1.0,
+        "visual_novelty": 0.7
+      }
+    },
+    {
+      "index": 3,
+      "frame_id": 113,
+      "timestamp": 3.7666666666666666,
+      "timestamp_formatted": "00:03",
+      "cluster_id": 7,
+      "distance_to_centroid": 0.043075,
+      "path": "summary/keyframe_003.jpg",
+      "importance_score": 0.45,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "visual_richness": 0.743,
+        "motion_context": 0.596,
+        "representativeness": 1.0,
+        "dominance": 0.667,
+        "temporal_coverage": 1.0,
+        "visual_novelty": 0.7
+      }
+    },
+    {
+      "index": 4,
+      "frame_id": 122,
+      "timestamp": 4.066666666666666,
+      "timestamp_formatted": "00:04",
+      "cluster_id": 5,
+      "distance_to_centroid": 0.067963,
+      "path": "summary/keyframe_004.jpg",
+      "importance_score": 0.45,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "visual_richness": 0.785,
+        "motion_context": 0.833,
+        "representativeness": 1.0,
+        "dominance": 0.667,
+        "temporal_coverage": 1.0,
+        "visual_novelty": 0.7
+      }
+    },
+    {
+      "index": 5,
+      "frame_id": 147,
+      "timestamp": 4.9,
+      "timestamp_formatted": "00:04",
+      "cluster_id": 10,
+      "distance_to_centroid": 0.070815,
+      "path": "summary/keyframe_005.jpg",
+      "importance_score": 0.45,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "visual_richness": 1.0,
+        "motion_context": 0.739,
+        "representativeness": 1.0,
+        "dominance": 0.667,
+        "temporal_coverage": 1.0,
+        "visual_novelty": 0.9
+      }
+    },
+    {
+      "index": 6,
+      "frame_id": 269,
+      "timestamp": 8.966666666666667,
+      "timestamp_formatted": "00:08",
+      "cluster_id": 10,
+      "distance_to_centroid": 0.070815,
+      "path": "summary/keyframe_006.jpg",
+      "importance_score": 0.45,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "visual_richness": 0.815,
+        "motion_context": 0.581,
+        "representativeness": 1.0,
+        "dominance": 0.667,
+        "temporal_coverage": 1.0,
+        "visual_novelty": 1.0
+      }
+    },
+    {
+      "index": 7,
+      "frame_id": 374,
+      "timestamp": 12.466666666666667,
+      "timestamp_formatted": "00:12",
+      "cluster_id": 6,
+      "distance_to_centroid": 0.076887,
+      "path": "summary/keyframe_007.jpg",
+      "importance_score": 0.45,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "visual_richness": 0.856,
+        "motion_context": 0.502,
+        "representativeness": 0.0,
+        "dominance": 0.8,
+        "temporal_coverage": 1.0,
+        "visual_novelty": 1.0
+      }
+    },
+    {
+      "index": 8,
+      "frame_id": 404,
+      "timestamp": 13.466666666666667,
+      "timestamp_formatted": "00:13",
+      "cluster_id": 6,
+      "distance_to_centroid": 0.075267,
+      "path": "summary/keyframe_008.jpg",
+      "importance_score": 0.45,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "visual_richness": 0.988,
+        "motion_context": 0.602,
+        "representativeness": 0.04,
+        "dominance": 0.8,
+        "temporal_coverage": 1.0,
+        "visual_novelty": 0.1
+      }
+    },
+    {
+      "index": 9,
+      "frame_id": 414,
+      "timestamp": 13.8,
+      "timestamp_formatted": "00:13",
+      "cluster_id": 11,
+      "distance_to_centroid": 0.061211,
+      "path": "summary/keyframe_009.jpg",
+      "importance_score": 0.45,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "visual_richness": 0.752,
+        "motion_context": 0.484,
+        "representativeness": 0.273,
+        "dominance": 0.8,
+        "temporal_coverage": 1.0,
+        "visual_novelty": 0.0
+      }
+    },
+    {
+      "index": 10,
+      "frame_id": 417,
+      "timestamp": 13.9,
+      "timestamp_formatted": "00:13",
+      "cluster_id": 4,
+      "distance_to_centroid": 0.035238,
+      "path": "summary/keyframe_010.jpg",
+      "importance_score": 0.45,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "visual_richness": 0.602,
+        "motion_context": 0.196,
+        "representativeness": 1.0,
+        "dominance": 0.667,
+        "temporal_coverage": 1.0,
+        "visual_novelty": 0.0
+      }
+    },
+    {
+      "index": 11,
+      "frame_id": 418,
+      "timestamp": 13.933333333333334,
+      "timestamp_formatted": "00:13",
+      "cluster_id": 4,
+      "distance_to_centroid": 0.035237,
+      "path": "summary/keyframe_011.jpg",
+      "importance_score": 0.45,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "visual_richness": 0.573,
+        "motion_context": 0.038,
+        "representativeness": 1.0,
+        "dominance": 0.667,
+        "temporal_coverage": 0.542,
+        "visual_novelty": 0.0
+      }
+    },
+    {
+      "index": 12,
+      "frame_id": 421,
+      "timestamp": 14.033333333333333,
+      "timestamp_formatted": "00:14",
+      "cluster_id": 1,
+      "distance_to_centroid": 0.038366,
+      "path": "summary/keyframe_012.jpg",
+      "importance_score": 0.35,
+      "importance_confidence": "LOW",
+      "importance_factors": {
+        "visual_richness": 0.517,
+        "motion_context": 0.291,
+        "representativeness": 1.0,
+        "dominance": 0.8,
+        "temporal_coverage": 0.542,
+        "visual_novelty": 0.0
+      }
+    },
+    {
+      "index": 13,
+      "frame_id": 427,
+      "timestamp": 14.233333333333333,
+      "timestamp_formatted": "00:14",
+      "cluster_id": 1,
+      "distance_to_centroid": 0.082737,
+      "path": "summary/keyframe_013.jpg",
+      "importance_score": 0.2295,
+      "importance_confidence": "LOW",
+      "importance_factors": {
+        "visual_richness": 0.0,
+        "motion_context": 0.45,
+        "representativeness": 0.0,
+        "dominance": 0.8,
+        "temporal_coverage": 0.542,
+        "visual_novelty": 0.0
+      }
+    },
+    {
+      "index": 14,
+      "frame_id": 429,
+      "timestamp": 14.3,
+      "timestamp_formatted": "00:14",
+      "cluster_id": 2,
+      "distance_to_centroid": 0.034373,
+      "path": "summary/keyframe_014.jpg",
+      "importance_score": 0.45,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "visual_richness": 0.134,
+        "motion_context": 0.32,
+        "representativeness": 1.0,
+        "dominance": 0.667,
+        "temporal_coverage": 0.542,
+        "visual_novelty": 0.0
+      }
+    },
+    {
+      "index": 15,
+      "frame_id": 431,
+      "timestamp": 14.366666666666667,
+      "timestamp_formatted": "00:14",
+      "cluster_id": 2,
+      "distance_to_centroid": 0.034373,
+      "path": "summary/keyframe_015.jpg",
+      "importance_score": 0.45,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "visual_richness": 0.241,
+        "motion_context": 0.343,
+        "representativeness": 1.0,
+        "dominance": 0.667,
+        "temporal_coverage": 0.542,
+        "visual_novelty": 0.0
+      }
+    },
+    {
+      "index": 16,
+      "frame_id": 432,
+      "timestamp": 14.4,
+      "timestamp_formatted": "00:14",
+      "cluster_id": 8,
+      "distance_to_centroid": 0.041057,
+      "path": "summary/keyframe_016.jpg",
+      "importance_score": 0.45,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "visual_richness": 0.304,
+        "motion_context": 0.324,
+        "representativeness": 1.0,
+        "dominance": 0.667,
+        "temporal_coverage": 0.542,
+        "visual_novelty": 0.0
+      }
+    },
+    {
+      "index": 17,
+      "frame_id": 434,
+      "timestamp": 14.466666666666667,
+      "timestamp_formatted": "00:14",
+      "cluster_id": 8,
+      "distance_to_centroid": 0.041057,
+      "path": "summary/keyframe_017.jpg",
+      "importance_score": 0.45,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "visual_richness": 0.381,
+        "motion_context": 0.255,
+        "representativeness": 1.0,
+        "dominance": 0.667,
+        "temporal_coverage": 0.542,
+        "visual_novelty": 0.0
+      }
+    },
+    {
+      "index": 18,
+      "frame_id": 437,
+      "timestamp": 14.566666666666666,
+      "timestamp_formatted": "00:14",
+      "cluster_id": 11,
+      "distance_to_centroid": 0.039065,
+      "path": "summary/keyframe_018.jpg",
+      "importance_score": 0.45,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "visual_richness": 0.422,
+        "motion_context": 0.392,
+        "representativeness": 1.0,
+        "dominance": 0.8,
+        "temporal_coverage": 0.542,
+        "visual_novelty": 0.0
+      }
+    },
+    {
+      "index": 19,
+      "frame_id": 438,
+      "timestamp": 14.6,
+      "timestamp_formatted": "00:14",
+      "cluster_id": 0,
+      "distance_to_centroid": 0.053245,
+      "path": "summary/keyframe_019.jpg",
+      "importance_score": 0.45,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "visual_richness": 0.978,
+        "motion_context": 0.617,
+        "representativeness": 0.308,
+        "dominance": 0.8,
+        "temporal_coverage": 0.542,
+        "visual_novelty": 0.0
+      }
+    },
+    {
+      "index": 20,
+      "frame_id": 459,
+      "timestamp": 15.3,
+      "timestamp_formatted": "00:15",
+      "cluster_id": 0,
+      "distance_to_centroid": 0.036921,
+      "path": "summary/keyframe_020.jpg",
+      "importance_score": 0.45,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "visual_richness": 0.881,
+        "motion_context": 0.658,
+        "representativeness": 1.0,
+        "dominance": 0.8,
+        "temporal_coverage": 0.542,
+        "visual_novelty": 0.3
+      }
+    },
+    {
+      "index": 21,
+      "frame_id": 553,
+      "timestamp": 18.433333333333334,
+      "timestamp_formatted": "00:18",
+      "cluster_id": 3,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_021.jpg",
+      "importance_score": 0.45,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "visual_richness": 0.945,
+        "motion_context": 0.873,
+        "representativeness": 1.0,
+        "dominance": 0.333,
+        "temporal_coverage": 0.542,
+        "visual_novelty": 0.9
+      }
+    },
+    {
+      "index": 22,
+      "frame_id": 608,
+      "timestamp": 20.266666666666666,
+      "timestamp_formatted": "00:20",
+      "cluster_id": 9,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_022.jpg",
+      "importance_score": 0.45,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "visual_richness": 0.995,
+        "motion_context": 0.908,
+        "representativeness": 1.0,
+        "dominance": 0.333,
+        "temporal_coverage": 0.542,
+        "visual_novelty": 1.0
+      }
+    }
+  ],
+  "generated_at": "2026-01-09T02:05:09.236573",
+  "output_format": "jpg",
+  "grid_path": "summary/storyboard.jpg",
+  "video_pacing": "fast",
+  "summary_confidence": "HIGH",
+  "stability_ratio": 0.955,
+  "importance_weights": {
+    "representativeness": 0.25,
+    "dominance": 0.1,
+    "visual_richness": 0.2,
+    "temporal_coverage": 0.15,
+    "visual_novelty": 0.15,
+    "motion_context": 0.15
+  }
+}

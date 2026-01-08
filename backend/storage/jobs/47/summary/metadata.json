@@ -1,0 +1,1631 @@
+{
+  "job_id": 47,
+  "video_filename": "Karuppu.mp4",
+  "video_duration": 102.96,
+  "total_frames_original": 2471,
+  "frames_after_filtering": 83,
+  "num_clusters": 27,
+  "keyframes": [
+    {
+      "index": 1,
+      "frame_id": 72,
+      "timestamp": 3.0,
+      "timestamp_formatted": "00:03",
+      "cluster_id": 11,
+      "distance_to_centroid": 0.112411,
+      "path": "summary/keyframe_001.jpg",
+      "importance_score": 0.4234,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.326,
+        "representativeness": 0.244,
+        "visual_richness": 0.218,
+        "dominance": 0.4,
+        "temporal_coverage": 0.618,
+        "visual_novelty": 0.9
+      },
+      "deep_analysis": {
+        "caption": "A large crowd of people in a city",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Large",
+            "score": 0.9
+          },
+          {
+            "label": "Crowd",
+            "score": 0.9
+          },
+          {
+            "label": "People",
+            "score": 0.9
+          },
+          {
+            "label": "City",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A large crowd of people in a city",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A large crowd of people in a city",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 2,
+      "frame_id": 179,
+      "timestamp": 7.458333333333333,
+      "timestamp_formatted": "00:07",
+      "cluster_id": 7,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_002.jpg",
+      "importance_score": 0.5587,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.253,
+        "representativeness": 1.0,
+        "visual_richness": 0.097,
+        "dominance": 0.067,
+        "temporal_coverage": 0.618,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "caption": "The tree that fell down",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Tree",
+            "score": 0.9
+          },
+          {
+            "label": "That",
+            "score": 0.9
+          },
+          {
+            "label": "Fell",
+            "score": 0.9
+          },
+          {
+            "label": "Down",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "The tree that fell down",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "The tree that fell down",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 3,
+      "frame_id": 287,
+      "timestamp": 11.958333333333334,
+      "timestamp_formatted": "00:11",
+      "cluster_id": 11,
+      "distance_to_centroid": 0.049404,
+      "path": "summary/keyframe_003.jpg",
+      "importance_score": 0.5329,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.068,
+        "representativeness": 1.0,
+        "visual_richness": 0.099,
+        "dominance": 0.4,
+        "temporal_coverage": 0.618,
+        "visual_novelty": 0.8
+      },
+      "deep_analysis": {
+        "caption": "A bunch of bells hanging from a ceiling",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Bunch",
+            "score": 0.9
+          },
+          {
+            "label": "Bells",
+            "score": 0.9
+          },
+          {
+            "label": "Hanging",
+            "score": 0.9
+          },
+          {
+            "label": "From",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A bunch of bells hanging from a ceiling",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A bunch of bells hanging from a ceiling",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 4,
+      "frame_id": 318,
+      "timestamp": 13.25,
+      "timestamp_formatted": "00:13",
+      "cluster_id": 14,
+      "distance_to_centroid": 0.052194,
+      "path": "summary/keyframe_004.jpg",
+      "importance_score": 0.5142,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.034,
+        "representativeness": 1.0,
+        "visual_richness": 0.085,
+        "dominance": 0.133,
+        "temporal_coverage": 0.618,
+        "visual_novelty": 0.9
+      },
+      "deep_analysis": {
+        "caption": "A man in a black shirt holding a knife",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Black",
+            "score": 0.9
+          },
+          {
+            "label": "Shirt",
+            "score": 0.9
+          },
+          {
+            "label": "Holding",
+            "score": 0.9
+          },
+          {
+            "label": "Knife",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A man in a black shirt holding a knife",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A man in a black shirt holding a knife",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 5,
+      "frame_id": 348,
+      "timestamp": 14.5,
+      "timestamp_formatted": "00:14",
+      "cluster_id": 3,
+      "distance_to_centroid": 0.064902,
+      "path": "summary/keyframe_005.jpg",
+      "importance_score": 0.4775,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.027,
+        "representativeness": 1.0,
+        "visual_richness": 0.077,
+        "dominance": 0.4,
+        "temporal_coverage": 0.618,
+        "visual_novelty": 0.5
+      },
+      "deep_analysis": {
+        "caption": "A man standing in front of a red wall",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Standing",
+            "score": 0.9
+          },
+          {
+            "label": "Front",
+            "score": 0.9
+          },
+          {
+            "label": "Wall",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A man standing in front of a red wall",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A man standing in front of a red wall",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 6,
+      "frame_id": 644,
+      "timestamp": 26.833333333333332,
+      "timestamp_formatted": "00:26",
+      "cluster_id": 5,
+      "distance_to_centroid": 0.08603,
+      "path": "summary/keyframe_006.jpg",
+      "importance_score": 0.5445,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.136,
+        "representativeness": 1.0,
+        "visual_richness": 0.086,
+        "dominance": 0.133,
+        "temporal_coverage": 0.618,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "caption": "A man in a suit and tie standing outside",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Suit",
+            "score": 0.9
+          },
+          {
+            "label": "Standing",
+            "score": 0.9
+          },
+          {
+            "label": "Outside",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A man in a suit and tie standing outside",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A man in a suit and tie standing outside",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 7,
+      "frame_id": 710,
+      "timestamp": 29.583333333333332,
+      "timestamp_formatted": "00:29",
+      "cluster_id": 6,
+      "distance_to_centroid": 0.066064,
+      "path": "summary/keyframe_007.jpg",
+      "importance_score": 0.5579,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.081,
+        "representativeness": 1.0,
+        "visual_richness": 0.096,
+        "dominance": 0.333,
+        "temporal_coverage": 0.618,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "caption": "A man is playing chess with two women",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Playing",
+            "score": 0.9
+          },
+          {
+            "label": "Chess",
+            "score": 0.9
+          },
+          {
+            "label": "With",
+            "score": 0.9
+          },
+          {
+            "label": "Women",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A man is playing chess with two women",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A man is playing chess with two women",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 8,
+      "frame_id": 756,
+      "timestamp": 31.5,
+      "timestamp_formatted": "00:31",
+      "cluster_id": 22,
+      "distance_to_centroid": 0.082617,
+      "path": "summary/keyframe_008.jpg",
+      "importance_score": 0.4202,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.088,
+        "representativeness": 0.509,
+        "visual_richness": 0.08,
+        "dominance": 0.2,
+        "temporal_coverage": 0.618,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "caption": "A man in a white shirt is standing on a subway",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "White",
+            "score": 0.9
+          },
+          {
+            "label": "Shirt",
+            "score": 0.9
+          },
+          {
+            "label": "Standing",
+            "score": 0.9
+          },
+          {
+            "label": "Subway",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A man in a white shirt is standing on a subway",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A man in a white shirt is standing on a subway",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 9,
+      "frame_id": 939,
+      "timestamp": 39.125,
+      "timestamp_formatted": "00:39",
+      "cluster_id": 16,
+      "distance_to_centroid": 0.053306,
+      "path": "summary/keyframe_009.jpg",
+      "importance_score": 0.5844,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.278,
+        "representativeness": 1.0,
+        "visual_richness": 0.208,
+        "dominance": 0.2,
+        "temporal_coverage": 0.535,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "caption": "A crowd of people are gathered around a stage",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Crowd",
+            "score": 0.9
+          },
+          {
+            "label": "People",
+            "score": 0.9
+          },
+          {
+            "label": "Gathered",
+            "score": 0.9
+          },
+          {
+            "label": "Around",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A crowd of people are gathered around a stage",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A crowd of people are gathered around a stage",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 10,
+      "frame_id": 975,
+      "timestamp": 40.625,
+      "timestamp_formatted": "00:40",
+      "cluster_id": 17,
+      "distance_to_centroid": 0.034048,
+      "path": "summary/keyframe_010.jpg",
+      "importance_score": 0.53,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.322,
+        "representativeness": 0.963,
+        "visual_richness": 0.077,
+        "dominance": 0.533,
+        "temporal_coverage": 0.535,
+        "visual_novelty": 0.6
+      },
+      "deep_analysis": {
+        "caption": "A yellow object is seen in front of a black background",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Yellow",
+            "score": 0.9
+          },
+          {
+            "label": "Object",
+            "score": 0.9
+          },
+          {
+            "label": "Seen",
+            "score": 0.9
+          },
+          {
+            "label": "Front",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A yellow object is seen in front of a black background",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A yellow object is seen in front of a black background",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 11,
+      "frame_id": 1046,
+      "timestamp": 43.583333333333336,
+      "timestamp_formatted": "00:43",
+      "cluster_id": 19,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_011.jpg",
+      "importance_score": 0.5231,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.301,
+        "representativeness": 1.0,
+        "visual_richness": 0.099,
+        "dominance": 0.067,
+        "temporal_coverage": 0.535,
+        "visual_novelty": 0.8
+      },
+      "deep_analysis": {
+        "caption": "A man sitting on a ledge with a cigarette in his mouth",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Sitting",
+            "score": 0.9
+          },
+          {
+            "label": "Ledge",
+            "score": 0.9
+          },
+          {
+            "label": "With",
+            "score": 0.9
+          },
+          {
+            "label": "Cigarette",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A man sitting on a ledge with a cigarette in his mouth",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A man sitting on a ledge with a cigarette in his mouth",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 12,
+      "frame_id": 1059,
+      "timestamp": 44.125,
+      "timestamp_formatted": "00:44",
+      "cluster_id": 25,
+      "distance_to_centroid": 0.067061,
+      "path": "summary/keyframe_012.jpg",
+      "importance_score": 0.5575,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.426,
+        "representativeness": 1.0,
+        "visual_richness": 0.107,
+        "dominance": 0.2,
+        "temporal_coverage": 0.535,
+        "visual_novelty": 0.8
+      },
+      "deep_analysis": {
+        "caption": "A man standing on top of a building",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Standing",
+            "score": 0.9
+          },
+          {
+            "label": "Building",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A man standing on top of a building",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A man standing on top of a building",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 13,
+      "frame_id": 1085,
+      "timestamp": 45.208333333333336,
+      "timestamp_formatted": "00:45",
+      "cluster_id": 4,
+      "distance_to_centroid": 0.048711,
+      "path": "summary/keyframe_013.jpg",
+      "importance_score": 0.5959,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.378,
+        "representativeness": 1.0,
+        "visual_richness": 0.224,
+        "dominance": 0.133,
+        "temporal_coverage": 0.535,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "caption": "A group of people are standing in front of a crowd",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Group",
+            "score": 0.9
+          },
+          {
+            "label": "People",
+            "score": 0.9
+          },
+          {
+            "label": "Standing",
+            "score": 0.9
+          },
+          {
+            "label": "Front",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A group of people are standing in front of a crowd",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A group of people are standing in front of a crowd",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 14,
+      "frame_id": 1117,
+      "timestamp": 46.541666666666664,
+      "timestamp_formatted": "00:46",
+      "cluster_id": 8,
+      "distance_to_centroid": 0.095586,
+      "path": "summary/keyframe_014.jpg",
+      "importance_score": 0.7285,
+      "importance_confidence": "HIGH",
+      "importance_factors": {
+        "motion_context": 0.4,
+        "representativeness": 1.0,
+        "visual_richness": 0.865,
+        "dominance": 0.133,
+        "temporal_coverage": 0.535,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "caption": "A large room filled with lots of people",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Large",
+            "score": 0.9
+          },
+          {
+            "label": "Room",
+            "score": 0.9
+          },
+          {
+            "label": "Filled",
+            "score": 0.9
+          },
+          {
+            "label": "With",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A large room filled with lots of people",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A large room filled with lots of people",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 15,
+      "frame_id": 1176,
+      "timestamp": 49.0,
+      "timestamp_formatted": "00:49",
+      "cluster_id": 1,
+      "distance_to_centroid": 0.014108,
+      "path": "summary/keyframe_015.jpg",
+      "importance_score": 0.5299,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.082,
+        "representativeness": 1.0,
+        "visual_richness": 0.078,
+        "dominance": 0.8,
+        "temporal_coverage": 0.535,
+        "visual_novelty": 0.6
+      },
+      "deep_analysis": {
+        "caption": "A man in a suit and tie is standing in front of a wall",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Suit",
+            "score": 0.9
+          },
+          {
+            "label": "Standing",
+            "score": 0.9
+          },
+          {
+            "label": "Front",
+            "score": 0.9
+          },
+          {
+            "label": "Wall",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A man in a suit and tie is standing in front of a wall",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A man in a suit and tie is standing in front of a wall",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 16,
+      "frame_id": 1197,
+      "timestamp": 49.875,
+      "timestamp_formatted": "00:49",
+      "cluster_id": 2,
+      "distance_to_centroid": 0.066665,
+      "path": "summary/keyframe_016.jpg",
+      "importance_score": 0.5294,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.339,
+        "representativeness": 1.0,
+        "visual_richness": 0.106,
+        "dominance": 0.2,
+        "temporal_coverage": 0.535,
+        "visual_novelty": 0.7
+      },
+      "deep_analysis": {
+        "caption": "A man eating a watermel",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Eating",
+            "score": 0.9
+          },
+          {
+            "label": "Watermel",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A man eating a watermel",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A man eating a watermel",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 17,
+      "frame_id": 1266,
+      "timestamp": 52.75,
+      "timestamp_formatted": "00:52",
+      "cluster_id": 0,
+      "distance_to_centroid": 0.082912,
+      "path": "summary/keyframe_017.jpg",
+      "importance_score": 0.5545,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.273,
+        "representativeness": 1.0,
+        "visual_richness": 0.097,
+        "dominance": 0.133,
+        "temporal_coverage": 0.535,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "caption": "A man in a white shirt and black pants is dancing",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "White",
+            "score": 0.9
+          },
+          {
+            "label": "Shirt",
+            "score": 0.9
+          },
+          {
+            "label": "Black",
+            "score": 0.9
+          },
+          {
+            "label": "Pants",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A man in a white shirt and black pants is dancing",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A man in a white shirt and black pants is dancing",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 18,
+      "frame_id": 1311,
+      "timestamp": 54.625,
+      "timestamp_formatted": "00:54",
+      "cluster_id": 4,
+      "distance_to_centroid": 0.048711,
+      "path": "summary/keyframe_018.jpg",
+      "importance_score": 0.5489,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.27,
+        "representativeness": 1.0,
+        "visual_richness": 0.145,
+        "dominance": 0.133,
+        "temporal_coverage": 0.535,
+        "visual_novelty": 0.9
+      },
+      "deep_analysis": {
+        "caption": "A car is flipped in the middle of a road",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Flipped",
+            "score": 0.9
+          },
+          {
+            "label": "Middle",
+            "score": 0.9
+          },
+          {
+            "label": "Road",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A car is flipped in the middle of a road",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A car is flipped in the middle of a road",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 19,
+      "frame_id": 1414,
+      "timestamp": 58.916666666666664,
+      "timestamp_formatted": "00:58",
+      "cluster_id": 8,
+      "distance_to_centroid": 0.095586,
+      "path": "summary/keyframe_019.jpg",
+      "importance_score": 0.5569,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.331,
+        "representativeness": 1.0,
+        "visual_richness": 0.14,
+        "dominance": 0.133,
+        "temporal_coverage": 0.535,
+        "visual_novelty": 0.9
+      },
+      "deep_analysis": {
+        "caption": "The avengers movie trailer",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Avengers",
+            "score": 0.9
+          },
+          {
+            "label": "Movie",
+            "score": 0.9
+          },
+          {
+            "label": "Trailer",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "The avengers movie trailer",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "The avengers movie trailer",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 20,
+      "frame_id": 1451,
+      "timestamp": 60.458333333333336,
+      "timestamp_formatted": "01:00",
+      "cluster_id": 17,
+      "distance_to_centroid": 0.033527,
+      "path": "summary/keyframe_020.jpg",
+      "importance_score": 0.5182,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.332,
+        "representativeness": 0.969,
+        "visual_richness": 0.08,
+        "dominance": 0.533,
+        "temporal_coverage": 0.535,
+        "visual_novelty": 0.5
+      },
+      "deep_analysis": {
+        "caption": "A yellow moon with a black background",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Yellow",
+            "score": 0.9
+          },
+          {
+            "label": "Moon",
+            "score": 0.9
+          },
+          {
+            "label": "With",
+            "score": 0.9
+          },
+          {
+            "label": "Black",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A yellow moon with a black background",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A yellow moon with a black background",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 21,
+      "frame_id": 1662,
+      "timestamp": 69.25,
+      "timestamp_formatted": "01:09",
+      "cluster_id": 3,
+      "distance_to_centroid": 0.095796,
+      "path": "summary/keyframe_021.jpg",
+      "importance_score": 0.4406,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.086,
+        "representativeness": 0.505,
+        "visual_richness": 0.085,
+        "dominance": 0.4,
+        "temporal_coverage": 0.618,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "caption": "A man with a beard and a beard in a scene from the movie",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "With",
+            "score": 0.9
+          },
+          {
+            "label": "Beard",
+            "score": 0.9
+          },
+          {
+            "label": "Beard",
+            "score": 0.9
+          },
+          {
+            "label": "Scene",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A man with a beard and a beard in a scene from the movie",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A man with a beard and a beard in a scene from the movie",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 22,
+      "frame_id": 1985,
+      "timestamp": 82.70833333333333,
+      "timestamp_formatted": "01:22",
+      "cluster_id": 1,
+      "distance_to_centroid": 0.026587,
+      "path": "summary/keyframe_022.jpg",
+      "importance_score": 0.4627,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.021,
+        "representativeness": 0.778,
+        "visual_richness": 0.077,
+        "dominance": 0.8,
+        "temporal_coverage": 0.618,
+        "visual_novelty": 0.5
+      },
+      "deep_analysis": {
+        "caption": "A fire is burning in the air",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Fire",
+            "score": 0.9
+          },
+          {
+            "label": "Burning",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A fire is burning in the air",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A fire is burning in the air",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 23,
+      "frame_id": 2019,
+      "timestamp": 84.125,
+      "timestamp_formatted": "01:24",
+      "cluster_id": 16,
+      "distance_to_centroid": 0.0646,
+      "path": "summary/keyframe_023.jpg",
+      "importance_score": 0.4353,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.261,
+        "representativeness": 0.428,
+        "visual_richness": 0.13,
+        "dominance": 0.2,
+        "temporal_coverage": 0.618,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "caption": "A group of people dancing in a street",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Group",
+            "score": 0.9
+          },
+          {
+            "label": "People",
+            "score": 0.9
+          },
+          {
+            "label": "Dancing",
+            "score": 0.9
+          },
+          {
+            "label": "Street",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A group of people dancing in a street",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A group of people dancing in a street",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 24,
+      "frame_id": 2056,
+      "timestamp": 85.66666666666667,
+      "timestamp_formatted": "01:25",
+      "cluster_id": 26,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_024.jpg",
+      "importance_score": 0.5743,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.377,
+        "representativeness": 1.0,
+        "visual_richness": 0.089,
+        "dominance": 0.067,
+        "temporal_coverage": 0.618,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "caption": "A man drinking water from a bottle",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Drinking",
+            "score": 0.9
+          },
+          {
+            "label": "Water",
+            "score": 0.9
+          },
+          {
+            "label": "From",
+            "score": 0.9
+          },
+          {
+            "label": "Bottle",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A man drinking water from a bottle",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A man drinking water from a bottle",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 25,
+      "frame_id": 2096,
+      "timestamp": 87.33333333333333,
+      "timestamp_formatted": "01:27",
+      "cluster_id": 2,
+      "distance_to_centroid": 0.072195,
+      "path": "summary/keyframe_025.jpg",
+      "importance_score": 0.4423,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.273,
+        "representativeness": 0.541,
+        "visual_richness": 0.09,
+        "dominance": 0.2,
+        "temporal_coverage": 0.618,
+        "visual_novelty": 0.9
+      },
+      "deep_analysis": {
+        "caption": "A man with sunglasses and a beard smoking a cigarette",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "With",
+            "score": 0.9
+          },
+          {
+            "label": "Sunglasses",
+            "score": 0.9
+          },
+          {
+            "label": "Beard",
+            "score": 0.9
+          },
+          {
+            "label": "Smoking",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A man with sunglasses and a beard smoking a cigarette",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A man with sunglasses and a beard smoking a cigarette",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 26,
+      "frame_id": 2164,
+      "timestamp": 90.16666666666667,
+      "timestamp_formatted": "01:30",
+      "cluster_id": 23,
+      "distance_to_centroid": 0.042531,
+      "path": "summary/keyframe_026.jpg",
+      "importance_score": 0.4595,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.166,
+        "representativeness": 1.0,
+        "visual_richness": 0.09,
+        "dominance": 0.133,
+        "temporal_coverage": 0.618,
+        "visual_novelty": 0.4
+      },
+      "deep_analysis": {
+        "caption": "A movie poster with the words no",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Movie",
+            "score": 0.9
+          },
+          {
+            "label": "Poster",
+            "score": 0.9
+          },
+          {
+            "label": "With",
+            "score": 0.9
+          },
+          {
+            "label": "Words",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A movie poster with the words no",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A movie poster with the words no",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 27,
+      "frame_id": 2326,
+      "timestamp": 96.91666666666667,
+      "timestamp_formatted": "01:36",
+      "cluster_id": 20,
+      "distance_to_centroid": 0.072016,
+      "path": "summary/keyframe_027.jpg",
+      "importance_score": 0.6841,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 1.0,
+        "representativeness": 1.0,
+        "visual_richness": 0.128,
+        "dominance": 0.133,
+        "temporal_coverage": 0.618,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "caption": "A wall full of movies",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Wall",
+            "score": 0.9
+          },
+          {
+            "label": "Full",
+            "score": 0.9
+          },
+          {
+            "label": "Movies",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A wall full of movies",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A wall full of movies",
+      "domain": "Visual Analysis"
+    }
+  ],
+  "generated_at": "2026-01-08T22:36:19.933592",
+  "output_format": "jpg",
+  "grid_path": "summary/storyboard.jpg",
+  "video_pacing": "Moderate",
+  "summary_confidence": "MEDIUM",
+  "stability_ratio": 0.815,
+  "importance_weights": {
+    "representativeness": 0.25,
+    "dominance": 0.1,
+    "visual_richness": 0.2,
+    "temporal_coverage": 0.15,
+    "visual_novelty": 0.15,
+    "motion_context": 0.15
+  },
+  "compression_ratio": 1.91,
+  "redundancy_removed": 0.6747,
+  "temporal_coverage_score": 0.58,
+  "summary_reason": "Balanced content summarized into 27 key moments (~0.26 keyframes/sec)."
+}

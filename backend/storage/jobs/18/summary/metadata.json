@@ -1,0 +1,67 @@
+{
+  "job_id": 18,
+  "video_filename": "Matka Chicken.mp4",
+  "video_duration": 20.866666666666667,
+  "total_frames_original": 626,
+  "frames_after_filtering": 26,
+  "num_clusters": 6,
+  "keyframes": [
+    {
+      "index": 1,
+      "frame_id": 113,
+      "timestamp": 3.7666666666666666,
+      "timestamp_formatted": "00:03",
+      "cluster_id": 7,
+      "distance_to_centroid": 0.043075,
+      "path": "summary/keyframe_001.jpg"
+    },
+    {
+      "index": 2,
+      "frame_id": 147,
+      "timestamp": 4.9,
+      "timestamp_formatted": "00:04",
+      "cluster_id": 10,
+      "distance_to_centroid": 0.070815,
+      "path": "summary/keyframe_002.jpg"
+    },
+    {
+      "index": 3,
+      "frame_id": 429,
+      "timestamp": 14.3,
+      "timestamp_formatted": "00:14",
+      "cluster_id": 2,
+      "distance_to_centroid": 0.034373,
+      "path": "summary/keyframe_003.jpg"
+    },
+    {
+      "index": 4,
+      "frame_id": 459,
+      "timestamp": 15.3,
+      "timestamp_formatted": "00:15",
+      "cluster_id": 0,
+      "distance_to_centroid": 0.036921,
+      "path": "summary/keyframe_004.jpg"
+    },
+    {
+      "index": 5,
+      "frame_id": 553,
+      "timestamp": 18.433333333333334,
+      "timestamp_formatted": "00:18",
+      "cluster_id": 3,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_005.jpg"
+    },
+    {
+      "index": 6,
+      "frame_id": 608,
+      "timestamp": 20.266666666666666,
+      "timestamp_formatted": "00:20",
+      "cluster_id": 9,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_006.jpg"
+    }
+  ],
+  "generated_at": "2026-01-09T01:22:17.100769",
+  "output_format": "jpg",
+  "grid_path": "summary/storyboard.jpg"
+}

@@ -1,0 +1,1839 @@
+{
+  "job_id": 50,
+  "video_filename": "Titan - Attack on Titan.mp4",
+  "video_duration": 100.81,
+  "total_frames_original": 2417,
+  "frames_after_filtering": 137,
+  "num_clusters": 31,
+  "keyframes": [
+    {
+      "index": 1,
+      "frame_id": 300,
+      "timestamp": 12.5125,
+      "timestamp_formatted": "00:12",
+      "cluster_id": 2,
+      "distance_to_centroid": 0.087933,
+      "path": "summary/keyframe_001.jpg",
+      "importance_score": 0.5575,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.421,
+        "representativeness": 1.0,
+        "visual_richness": 0.09,
+        "dominance": 0.294,
+        "temporal_coverage": 0.604,
+        "visual_novelty": 0.7
+      },
+      "deep_analysis": {
+        "caption": "A gorilla looking up at the sky",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Gorilla",
+            "score": 0.9
+          },
+          {
+            "label": "Looking",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A gorilla looking up at the sky",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A gorilla looking up at the sky",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 2,
+      "frame_id": 319,
+      "timestamp": 13.304958333333332,
+      "timestamp_formatted": "00:13",
+      "cluster_id": 23,
+      "distance_to_centroid": 0.047588,
+      "path": "summary/keyframe_002.jpg",
+      "importance_score": 0.5662,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.402,
+        "representativeness": 1.0,
+        "visual_richness": 0.101,
+        "dominance": 0.235,
+        "temporal_coverage": 0.604,
+        "visual_novelty": 0.8
+      },
+      "deep_analysis": {
+        "caption": "A gorilla looking at a man in the sky",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Gorilla",
+            "score": 0.9
+          },
+          {
+            "label": "Looking",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A gorilla looking at a man in the sky",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A gorilla looking at a man in the sky",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 3,
+      "frame_id": 428,
+      "timestamp": 17.851166666666664,
+      "timestamp_formatted": "00:17",
+      "cluster_id": 1,
+      "distance_to_centroid": 0.077302,
+      "path": "summary/keyframe_003.jpg",
+      "importance_score": 0.5128,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.474,
+        "representativeness": 0.736,
+        "visual_richness": 0.092,
+        "dominance": 0.412,
+        "temporal_coverage": 0.604,
+        "visual_novelty": 0.7
+      },
+      "deep_analysis": {
+        "caption": "A man with his mouth open and his mouth wide",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "With",
+            "score": 0.9
+          },
+          {
+            "label": "Mouth",
+            "score": 0.9
+          },
+          {
+            "label": "Open",
+            "score": 0.9
+          },
+          {
+            "label": "Mouth",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A man with his mouth open and his mouth wide",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A man with his mouth open and his mouth wide",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 4,
+      "frame_id": 464,
+      "timestamp": 19.352666666666664,
+      "timestamp_formatted": "00:19",
+      "cluster_id": 9,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_004.jpg",
+      "importance_score": 0.5347,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.63,
+        "representativeness": 1.0,
+        "visual_richness": 0.089,
+        "dominance": 0.059,
+        "temporal_coverage": 0.604,
+        "visual_novelty": 0.5
+      },
+      "deep_analysis": {
+        "caption": "A person with long hair and a knife in their hand",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Person",
+            "score": 0.9
+          },
+          {
+            "label": "With",
+            "score": 0.9
+          },
+          {
+            "label": "Long",
+            "score": 0.9
+          },
+          {
+            "label": "Hair",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A person with long hair and a knife in their hand",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A person with long hair and a knife in their hand",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 5,
+      "frame_id": 491,
+      "timestamp": 20.478791666666666,
+      "timestamp_formatted": "00:20",
+      "cluster_id": 13,
+      "distance_to_centroid": 0.077641,
+      "path": "summary/keyframe_005.jpg",
+      "importance_score": 0.5049,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.458,
+        "representativeness": 0.801,
+        "visual_richness": 0.105,
+        "dominance": 0.471,
+        "temporal_coverage": 0.604,
+        "visual_novelty": 0.5
+      },
+      "deep_analysis": {
+        "caption": "A person reaching their hand to a bird",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Person",
+            "score": 0.9
+          },
+          {
+            "label": "Reaching",
+            "score": 0.9
+          },
+          {
+            "label": "Their",
+            "score": 0.9
+          },
+          {
+            "label": "Hand",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A person reaching their hand to a bird",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A person reaching their hand to a bird",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 6,
+      "frame_id": 524,
+      "timestamp": 21.855166666666666,
+      "timestamp_formatted": "00:21",
+      "cluster_id": 0,
+      "distance_to_centroid": 0.090058,
+      "path": "summary/keyframe_006.jpg",
+      "importance_score": 0.5085,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.569,
+        "representativeness": 1.0,
+        "visual_richness": 0.095,
+        "dominance": 0.176,
+        "temporal_coverage": 0.604,
+        "visual_novelty": 0.3
+      },
+      "deep_analysis": {
+        "caption": "A man with a knife in his hand",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "With",
+            "score": 0.9
+          },
+          {
+            "label": "Knife",
+            "score": 0.9
+          },
+          {
+            "label": "Hand",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A man with a knife in his hand",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A man with a knife in his hand",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 7,
+      "frame_id": 621,
+      "timestamp": 25.900875,
+      "timestamp_formatted": "00:25",
+      "cluster_id": 7,
+      "distance_to_centroid": 0.06013,
+      "path": "summary/keyframe_007.jpg",
+      "importance_score": 0.5562,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.438,
+        "representativeness": 0.742,
+        "visual_richness": 0.138,
+        "dominance": 0.8,
+        "temporal_coverage": 0.604,
+        "visual_novelty": 0.7
+      },
+      "deep_analysis": {
+        "caption": "The anime is a very good movie",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Anime",
+            "score": 0.9
+          },
+          {
+            "label": "Very",
+            "score": 0.9
+          },
+          {
+            "label": "Good",
+            "score": 0.9
+          },
+          {
+            "label": "Movie",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "The anime is a very good movie",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "The anime is a very good movie",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 8,
+      "frame_id": 743,
+      "timestamp": 30.989291666666663,
+      "timestamp_formatted": "00:30",
+      "cluster_id": 16,
+      "distance_to_centroid": 0.019871,
+      "path": "summary/keyframe_008.jpg",
+      "importance_score": 0.4644,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.011,
+        "representativeness": 1.0,
+        "visual_richness": 0.128,
+        "dominance": 0.8,
+        "temporal_coverage": 0.604,
+        "visual_novelty": 0.1
+      },
+      "deep_analysis": {
+        "caption": "The anime is a very good movie",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Anime",
+            "score": 0.9
+          },
+          {
+            "label": "Very",
+            "score": 0.9
+          },
+          {
+            "label": "Good",
+            "score": 0.9
+          },
+          {
+            "label": "Movie",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "The anime is a very good movie",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "The anime is a very good movie",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 9,
+      "frame_id": 835,
+      "timestamp": 34.82645833333333,
+      "timestamp_formatted": "00:34",
+      "cluster_id": 3,
+      "distance_to_centroid": 0.108489,
+      "path": "summary/keyframe_009.jpg",
+      "importance_score": 0.4503,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.625,
+        "representativeness": 0.625,
+        "visual_richness": 0.083,
+        "dominance": 0.471,
+        "temporal_coverage": 0.403,
+        "visual_novelty": 0.5
+      },
+      "deep_analysis": {
+        "caption": "A cat is playing with a ball in the grass",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Playing",
+            "score": 0.9
+          },
+          {
+            "label": "With",
+            "score": 0.9
+          },
+          {
+            "label": "Ball",
+            "score": 0.9
+          },
+          {
+            "label": "Grass",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A cat is playing with a ball in the grass",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A cat is playing with a ball in the grass",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 10,
+      "frame_id": 867,
+      "timestamp": 36.161125,
+      "timestamp_formatted": "00:36",
+      "cluster_id": 27,
+      "distance_to_centroid": 0.052583,
+      "path": "summary/keyframe_010.jpg",
+      "importance_score": 0.489,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.407,
+        "representativeness": 1.0,
+        "visual_richness": 0.108,
+        "dominance": 0.353,
+        "temporal_coverage": 0.403,
+        "visual_novelty": 0.4
+      },
+      "deep_analysis": {
+        "caption": "A man with long hair and a beard in a black outfit",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "With",
+            "score": 0.9
+          },
+          {
+            "label": "Long",
+            "score": 0.9
+          },
+          {
+            "label": "Hair",
+            "score": 0.9
+          },
+          {
+            "label": "Beard",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A man with long hair and a beard in a black outfit",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A man with long hair and a beard in a black outfit",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 11,
+      "frame_id": 1058,
+      "timestamp": 44.12741666666666,
+      "timestamp_formatted": "00:44",
+      "cluster_id": 6,
+      "distance_to_centroid": 0.081186,
+      "path": "summary/keyframe_011.jpg",
+      "importance_score": 0.4452,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.478,
+        "representativeness": 1.0,
+        "visual_richness": 0.158,
+        "dominance": 0.294,
+        "temporal_coverage": 0.403,
+        "visual_novelty": 0.0
+      },
+      "deep_analysis": {
+        "caption": "A man in a suit is holding a sword",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Suit",
+            "score": 0.9
+          },
+          {
+            "label": "Holding",
+            "score": 0.9
+          },
+          {
+            "label": "Sword",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A man in a suit is holding a sword",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A man in a suit is holding a sword",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 12,
+      "frame_id": 1080,
+      "timestamp": 45.044999999999995,
+      "timestamp_formatted": "00:45",
+      "cluster_id": 18,
+      "distance_to_centroid": 0.054985,
+      "path": "summary/keyframe_012.jpg",
+      "importance_score": 0.4913,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.827,
+        "representativeness": 1.0,
+        "visual_richness": 0.186,
+        "dominance": 0.176,
+        "temporal_coverage": 0.403,
+        "visual_novelty": 0.0
+      },
+      "deep_analysis": {
+        "caption": "A man with a sword in his hand and the words that say it is not a good thing",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "With",
+            "score": 0.9
+          },
+          {
+            "label": "Sword",
+            "score": 0.9
+          },
+          {
+            "label": "Hand",
+            "score": 0.9
+          },
+          {
+            "label": "Words",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A man with a sword in his hand and the words that say it is not a good thing",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A man with a sword in his hand and the words that say it is not a good thing",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 13,
+      "frame_id": 1105,
+      "timestamp": 46.08770833333333,
+      "timestamp_formatted": "00:46",
+      "cluster_id": 19,
+      "distance_to_centroid": 0.076598,
+      "path": "summary/keyframe_013.jpg",
+      "importance_score": 0.5158,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.746,
+        "representativeness": 1.0,
+        "visual_richness": 0.096,
+        "dominance": 0.118,
+        "temporal_coverage": 0.403,
+        "visual_novelty": 0.4
+      },
+      "deep_analysis": {
+        "caption": "A man in a suit and a sword",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Suit",
+            "score": 0.9
+          },
+          {
+            "label": "Sword",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A man in a suit and a sword",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A man in a suit and a sword",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 14,
+      "frame_id": 1143,
+      "timestamp": 47.672625,
+      "timestamp_formatted": "00:47",
+      "cluster_id": 12,
+      "distance_to_centroid": 0.080566,
+      "path": "summary/keyframe_014.jpg",
+      "importance_score": 0.4023,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.361,
+        "representativeness": 1.0,
+        "visual_richness": 0.127,
+        "dominance": 0.118,
+        "temporal_coverage": 0.403,
+        "visual_novelty": 0.0
+      },
+      "deep_analysis": {
+        "caption": "A man with long hair and a black shirt",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "With",
+            "score": 0.9
+          },
+          {
+            "label": "Long",
+            "score": 0.9
+          },
+          {
+            "label": "Hair",
+            "score": 0.9
+          },
+          {
+            "label": "Black",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A man with long hair and a black shirt",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A man with long hair and a black shirt",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 15,
+      "frame_id": 1161,
+      "timestamp": 48.423375,
+      "timestamp_formatted": "00:48",
+      "cluster_id": 17,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_015.jpg",
+      "importance_score": 0.4578,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.609,
+        "representativeness": 1.0,
+        "visual_richness": 0.089,
+        "dominance": 0.059,
+        "temporal_coverage": 0.403,
+        "visual_novelty": 0.2
+      },
+      "deep_analysis": {
+        "caption": "A man with a big head",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "With",
+            "score": 0.9
+          },
+          {
+            "label": "Head",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A man with a big head",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A man with a big head",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 16,
+      "frame_id": 1185,
+      "timestamp": 49.424375,
+      "timestamp_formatted": "00:49",
+      "cluster_id": 4,
+      "distance_to_centroid": 0.076746,
+      "path": "summary/keyframe_016.jpg",
+      "importance_score": 0.6015,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.733,
+        "representativeness": 0.949,
+        "visual_richness": 0.108,
+        "dominance": 0.353,
+        "temporal_coverage": 0.403,
+        "visual_novelty": 0.9
+      },
+      "deep_analysis": {
+        "caption": "A man with a gun in his hand",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "With",
+            "score": 0.9
+          },
+          {
+            "label": "Hand",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A man with a gun in his hand",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A man with a gun in his hand",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 17,
+      "frame_id": 1281,
+      "timestamp": 53.428374999999996,
+      "timestamp_formatted": "00:53",
+      "cluster_id": 14,
+      "distance_to_centroid": 0.054572,
+      "path": "summary/keyframe_017.jpg",
+      "importance_score": 0.5092,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.468,
+        "representativeness": 1.0,
+        "visual_richness": 0.092,
+        "dominance": 0.176,
+        "temporal_coverage": 0.403,
+        "visual_novelty": 0.6
+      },
+      "deep_analysis": {
+        "caption": "A man in a green coat flying through the sky",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Green",
+            "score": 0.9
+          },
+          {
+            "label": "Coat",
+            "score": 0.9
+          },
+          {
+            "label": "Flying",
+            "score": 0.9
+          },
+          {
+            "label": "Through",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A man in a green coat flying through the sky",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A man in a green coat flying through the sky",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 18,
+      "frame_id": 1298,
+      "timestamp": 54.13741666666666,
+      "timestamp_formatted": "00:54",
+      "cluster_id": 20,
+      "distance_to_centroid": 0.049129,
+      "path": "summary/keyframe_018.jpg",
+      "importance_score": 0.5362,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.654,
+        "representativeness": 1.0,
+        "visual_richness": 0.091,
+        "dominance": 0.176,
+        "temporal_coverage": 0.403,
+        "visual_novelty": 0.6
+      },
+      "deep_analysis": {
+        "caption": "A man with black hair and a green shirt",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "With",
+            "score": 0.9
+          },
+          {
+            "label": "Black",
+            "score": 0.9
+          },
+          {
+            "label": "Hair",
+            "score": 0.9
+          },
+          {
+            "label": "Green",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A man with black hair and a green shirt",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A man with black hair and a green shirt",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 19,
+      "frame_id": 1361,
+      "timestamp": 56.76504166666666,
+      "timestamp_formatted": "00:56",
+      "cluster_id": 10,
+      "distance_to_centroid": 0.077877,
+      "path": "summary/keyframe_019.jpg",
+      "importance_score": 0.5082,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.406,
+        "representativeness": 1.0,
+        "visual_richness": 0.095,
+        "dominance": 0.118,
+        "temporal_coverage": 0.403,
+        "visual_novelty": 0.7
+      },
+      "deep_analysis": {
+        "caption": "A man with black hair and a green shirt",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "With",
+            "score": 0.9
+          },
+          {
+            "label": "Black",
+            "score": 0.9
+          },
+          {
+            "label": "Hair",
+            "score": 0.9
+          },
+          {
+            "label": "Green",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A man with black hair and a green shirt",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A man with black hair and a green shirt",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 20,
+      "frame_id": 1388,
+      "timestamp": 57.89116666666666,
+      "timestamp_formatted": "00:57",
+      "cluster_id": 24,
+      "distance_to_centroid": 0.05247,
+      "path": "summary/keyframe_020.jpg",
+      "importance_score": 0.5498,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.471,
+        "representativeness": 1.0,
+        "visual_richness": 0.163,
+        "dominance": 0.294,
+        "temporal_coverage": 0.403,
+        "visual_novelty": 0.7
+      },
+      "deep_analysis": {
+        "caption": "A man in a suit with a gun",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Suit",
+            "score": 0.9
+          },
+          {
+            "label": "With",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A man in a suit with a gun",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A man in a suit with a gun",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 21,
+      "frame_id": 1401,
+      "timestamp": 58.433375,
+      "timestamp_formatted": "00:58",
+      "cluster_id": 3,
+      "distance_to_centroid": 0.098018,
+      "path": "summary/keyframe_021.jpg",
+      "importance_score": 0.5582,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.819,
+        "representativeness": 0.755,
+        "visual_richness": 0.161,
+        "dominance": 0.471,
+        "temporal_coverage": 0.403,
+        "visual_novelty": 0.7
+      },
+      "deep_analysis": {
+        "caption": "A cartoon character with a big eye and a black background",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Cartoon",
+            "score": 0.9
+          },
+          {
+            "label": "Character",
+            "score": 0.9
+          },
+          {
+            "label": "With",
+            "score": 0.9
+          },
+          {
+            "label": "Black",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A cartoon character with a big eye and a black background",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A cartoon character with a big eye and a black background",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 22,
+      "frame_id": 1484,
+      "timestamp": 61.89516666666666,
+      "timestamp_formatted": "01:01",
+      "cluster_id": 7,
+      "distance_to_centroid": 0.095691,
+      "path": "summary/keyframe_022.jpg",
+      "importance_score": 0.5058,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.752,
+        "representativeness": 0.423,
+        "visual_richness": 0.125,
+        "dominance": 0.8,
+        "temporal_coverage": 0.403,
+        "visual_novelty": 0.8
+      },
+      "deep_analysis": {
+        "caption": "A large bird flying over a large bird",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Large",
+            "score": 0.9
+          },
+          {
+            "label": "Bird",
+            "score": 0.9
+          },
+          {
+            "label": "Flying",
+            "score": 0.9
+          },
+          {
+            "label": "Over",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A large bird flying over a large bird",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A large bird flying over a large bird",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 23,
+      "frame_id": 1525,
+      "timestamp": 63.60520833333333,
+      "timestamp_formatted": "01:03",
+      "cluster_id": 4,
+      "distance_to_centroid": 0.072539,
+      "path": "summary/keyframe_023.jpg",
+      "importance_score": 0.604,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.761,
+        "representativeness": 1.0,
+        "visual_richness": 0.113,
+        "dominance": 0.353,
+        "temporal_coverage": 0.403,
+        "visual_novelty": 0.8
+      },
+      "deep_analysis": {
+        "caption": "A man in armor holding a sword on top of a hill",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Armor",
+            "score": 0.9
+          },
+          {
+            "label": "Holding",
+            "score": 0.9
+          },
+          {
+            "label": "Sword",
+            "score": 0.9
+          },
+          {
+            "label": "Hill",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A man in armor holding a sword on top of a hill",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A man in armor holding a sword on top of a hill",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 24,
+      "frame_id": 1552,
+      "timestamp": 64.73133333333332,
+      "timestamp_formatted": "01:04",
+      "cluster_id": 18,
+      "distance_to_centroid": 0.091748,
+      "path": "summary/keyframe_024.jpg",
+      "importance_score": 0.4532,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.957,
+        "representativeness": 0.234,
+        "visual_richness": 0.108,
+        "dominance": 0.176,
+        "temporal_coverage": 0.403,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "caption": "A man with a sword in his hand",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "With",
+            "score": 0.9
+          },
+          {
+            "label": "Sword",
+            "score": 0.9
+          },
+          {
+            "label": "Hand",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A man with a sword in his hand",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A man with a sword in his hand",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 25,
+      "frame_id": 1696,
+      "timestamp": 70.73733333333332,
+      "timestamp_formatted": "01:10",
+      "cluster_id": 8,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_025.jpg",
+      "importance_score": 0.5697,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.72,
+        "representativeness": 1.0,
+        "visual_richness": 0.089,
+        "dominance": 0.059,
+        "temporal_coverage": 0.742,
+        "visual_novelty": 0.5
+      },
+      "deep_analysis": {
+        "caption": "A man in a black shirt holding a sword",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Black",
+            "score": 0.9
+          },
+          {
+            "label": "Shirt",
+            "score": 0.9
+          },
+          {
+            "label": "Holding",
+            "score": 0.9
+          },
+          {
+            "label": "Sword",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A man in a black shirt holding a sword",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A man in a black shirt holding a sword",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 26,
+      "frame_id": 1755,
+      "timestamp": 73.19812499999999,
+      "timestamp_formatted": "01:13",
+      "cluster_id": 24,
+      "distance_to_centroid": 0.081821,
+      "path": "summary/keyframe_026.jpg",
+      "importance_score": 0.531,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.58,
+        "representativeness": 0.538,
+        "visual_richness": 0.091,
+        "dominance": 0.294,
+        "temporal_coverage": 0.742,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "caption": "A man with a green hair and a red belt is standing in front of a cloud filled sky",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "With",
+            "score": 0.9
+          },
+          {
+            "label": "Green",
+            "score": 0.9
+          },
+          {
+            "label": "Hair",
+            "score": 0.9
+          },
+          {
+            "label": "Belt",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A man with a green hair and a red belt is standing in front of a cloud filled sky",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A man with a green hair and a red belt is standing in front of a cloud filled sky",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 27,
+      "frame_id": 1903,
+      "timestamp": 79.37095833333333,
+      "timestamp_formatted": "01:19",
+      "cluster_id": 15,
+      "distance_to_centroid": 0.081605,
+      "path": "summary/keyframe_027.jpg",
+      "importance_score": 0.6675,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.666,
+        "representativeness": 0.862,
+        "visual_richness": 0.093,
+        "dominance": 0.706,
+        "temporal_coverage": 0.742,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "caption": "A man holding a gun in the air",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Holding",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A man holding a gun in the air",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A man holding a gun in the air",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 28,
+      "frame_id": 2167,
+      "timestamp": 90.38195833333333,
+      "timestamp_formatted": "01:30",
+      "cluster_id": 16,
+      "distance_to_centroid": 0.12363,
+      "path": "summary/keyframe_028.jpg",
+      "importance_score": 0.5454,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.726,
+        "representativeness": 0.22,
+        "visual_richness": 0.195,
+        "dominance": 0.8,
+        "temporal_coverage": 0.742,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "caption": "The anime is a very funny and funny scene",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Anime",
+            "score": 0.9
+          },
+          {
+            "label": "Very",
+            "score": 0.9
+          },
+          {
+            "label": "Funny",
+            "score": 0.9
+          },
+          {
+            "label": "Funny",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "The anime is a very funny and funny scene",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "The anime is a very funny and funny scene",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 29,
+      "frame_id": 2209,
+      "timestamp": 92.13370833333333,
+      "timestamp_formatted": "01:32",
+      "cluster_id": 10,
+      "distance_to_centroid": 0.077876,
+      "path": "summary/keyframe_029.jpg",
+      "importance_score": 0.655,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.726,
+        "representativeness": 1.0,
+        "visual_richness": 0.102,
+        "dominance": 0.118,
+        "temporal_coverage": 0.742,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "caption": "A man with black hair and a black shirt, staring at the camera",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "With",
+            "score": 0.9
+          },
+          {
+            "label": "Black",
+            "score": 0.9
+          },
+          {
+            "label": "Hair",
+            "score": 0.9
+          },
+          {
+            "label": "Black",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A man with black hair and a black shirt, staring at the camera",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A man with black hair and a black shirt, staring at the camera",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 30,
+      "frame_id": 2239,
+      "timestamp": 93.38495833333333,
+      "timestamp_formatted": "01:33",
+      "cluster_id": 15,
+      "distance_to_centroid": 0.077199,
+      "path": "summary/keyframe_030.jpg",
+      "importance_score": 0.686,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.698,
+        "representativeness": 0.899,
+        "visual_richness": 0.113,
+        "dominance": 0.706,
+        "temporal_coverage": 0.742,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "caption": "A close up of a person ' s eye",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Close",
+            "score": 0.9
+          },
+          {
+            "label": "Person",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A close up of a person ' s eye",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A close up of a person ' s eye",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 31,
+      "frame_id": 2328,
+      "timestamp": 97.097,
+      "timestamp_formatted": "01:37",
+      "cluster_id": 13,
+      "distance_to_centroid": 0.123441,
+      "path": "summary/keyframe_031.jpg",
+      "importance_score": 0.4041,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.468,
+        "representativeness": 0.0,
+        "visual_richness": 0.124,
+        "dominance": 0.471,
+        "temporal_coverage": 0.742,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "caption": "A girl with big eyes and a big nose",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Girl",
+            "score": 0.9
+          },
+          {
+            "label": "With",
+            "score": 0.9
+          },
+          {
+            "label": "Eyes",
+            "score": 0.9
+          },
+          {
+            "label": "Nose",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A girl with big eyes and a big nose",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A girl with big eyes and a big nose",
+      "domain": "Visual Analysis"
+    }
+  ],
+  "generated_at": "2026-01-08T23:04:50.659105",
+  "output_format": "jpg",
+  "grid_path": "summary/storyboard.jpg",
+  "video_pacing": "Moderate",
+  "summary_confidence": "MEDIUM",
+  "stability_ratio": 0.794,
+  "importance_weights": {
+    "representativeness": 0.25,
+    "dominance": 0.1,
+    "visual_richness": 0.2,
+    "temporal_coverage": 0.15,
+    "visual_novelty": 0.15,
+    "motion_context": 0.15
+  },
+  "compression_ratio": 1.63,
+  "redundancy_removed": 0.7737,
+  "temporal_coverage_score": 0.53,
+  "summary_reason": "Balanced content summarized into 31 key moments (~0.31 keyframes/sec)."
+}

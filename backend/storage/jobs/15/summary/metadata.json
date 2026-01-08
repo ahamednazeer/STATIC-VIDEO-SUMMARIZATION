@@ -1,0 +1,67 @@
+{
+  "job_id": 15,
+  "video_filename": "Red_Dead_Redemption_2_Trailer_1080p.mp4",
+  "video_duration": 68.30156666666667,
+  "total_frames_original": 2047,
+  "frames_after_filtering": 8,
+  "num_clusters": 6,
+  "keyframes": [
+    {
+      "index": 1,
+      "frame_id": 910,
+      "timestamp": 30.363666666666667,
+      "timestamp_formatted": "00:30",
+      "cluster_id": 0,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_001.jpg"
+    },
+    {
+      "index": 2,
+      "frame_id": 986,
+      "timestamp": 32.89953333333333,
+      "timestamp_formatted": "00:32",
+      "cluster_id": 4,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_002.jpg"
+    },
+    {
+      "index": 3,
+      "frame_id": 1064,
+      "timestamp": 35.50213333333333,
+      "timestamp_formatted": "00:35",
+      "cluster_id": 1,
+      "distance_to_centroid": 0.05793,
+      "path": "summary/keyframe_003.jpg"
+    },
+    {
+      "index": 4,
+      "frame_id": 1140,
+      "timestamp": 38.038000000000004,
+      "timestamp_formatted": "00:38",
+      "cluster_id": 2,
+      "distance_to_centroid": 0.064139,
+      "path": "summary/keyframe_004.jpg"
+    },
+    {
+      "index": 5,
+      "frame_id": 1623,
+      "timestamp": 54.1541,
+      "timestamp_formatted": "00:54",
+      "cluster_id": 3,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_005.jpg"
+    },
+    {
+      "index": 6,
+      "frame_id": 1706,
+      "timestamp": 56.92353333333333,
+      "timestamp_formatted": "00:56",
+      "cluster_id": 5,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_006.jpg"
+    }
+  ],
+  "generated_at": "2026-01-08T18:08:45.000605",
+  "output_format": "jpg",
+  "grid_path": "summary/storyboard.jpg"
+}

@@ -1,0 +1,22 @@
+# Video Summarization Backend
+
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+python-multipart>=0.0.6
+opencv-python-headless>=4.9.0
+numpy>=1.26.0
+scikit-learn>=1.4.0
+Pillow>=10.2.0
+aiosqlite>=0.19.0
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+
+# Optional: Deep Learning Features (ResNet/CLIP/BLIP)
+# Pinned to exact versions for compatibility
+torch==2.9.1
+torchvision==0.24.1
+# CLIP from OpenAI GitHub (clip-by-openai is outdated and requires torch 1.7.1)
+git+https://github.com/openai/CLIP.git
+ftfy  # Required by CLIP
+transformers>=4.36.0
+timm>=0.9.0

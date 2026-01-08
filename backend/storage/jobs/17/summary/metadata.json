@@ -1,0 +1,49 @@
+{
+  "job_id": 17,
+  "video_filename": "Matka Chicken.mp4",
+  "video_duration": 20.866666666666667,
+  "total_frames_original": 626,
+  "frames_after_filtering": 48,
+  "num_clusters": 4,
+  "keyframes": [
+    {
+      "index": 1,
+      "frame_id": 155,
+      "timestamp": 5.166666666666667,
+      "timestamp_formatted": "00:05",
+      "cluster_id": 7,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_001.jpg"
+    },
+    {
+      "index": 2,
+      "frame_id": 299,
+      "timestamp": 9.966666666666667,
+      "timestamp_formatted": "00:09",
+      "cluster_id": 3,
+      "distance_to_centroid": 0.064876,
+      "path": "summary/keyframe_002.jpg"
+    },
+    {
+      "index": 3,
+      "frame_id": 429,
+      "timestamp": 14.3,
+      "timestamp_formatted": "00:14",
+      "cluster_id": 4,
+      "distance_to_centroid": 0.026176,
+      "path": "summary/keyframe_003.jpg"
+    },
+    {
+      "index": 4,
+      "frame_id": 608,
+      "timestamp": 20.266666666666666,
+      "timestamp_formatted": "00:20",
+      "cluster_id": 6,
+      "distance_to_centroid": 0.001614,
+      "path": "summary/keyframe_004.jpg"
+    }
+  ],
+  "generated_at": "2026-01-09T01:07:41.177554",
+  "output_format": "jpg",
+  "grid_path": "summary/storyboard.jpg"
+}

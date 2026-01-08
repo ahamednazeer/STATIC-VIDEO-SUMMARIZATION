@@ -1,0 +1,89 @@
+{
+  "job_id": 49,
+  "video_filename": "1841002-hd_1366_720_24fps.mp4",
+  "video_duration": 13.33,
+  "total_frames_original": 320,
+  "frames_after_filtering": 2,
+  "num_clusters": 1,
+  "keyframes": [
+    {
+      "index": 1,
+      "frame_id": 129,
+      "timestamp": 5.375,
+      "timestamp_formatted": "00:05",
+      "cluster_id": 1,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_001.jpg",
+      "importance_score": 0.6518,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.5,
+        "representativeness": 1.0,
+        "visual_richness": 0.104,
+        "dominance": 0.8,
+        "temporal_coverage": 0.4,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "caption": "A yellow bowl filled with rice on a blue background",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Yellow",
+            "score": 0.9
+          },
+          {
+            "label": "Bowl",
+            "score": 0.9
+          },
+          {
+            "label": "Filled",
+            "score": 0.9
+          },
+          {
+            "label": "With",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A yellow bowl filled with rice on a blue background",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A yellow bowl filled with rice on a blue background",
+      "domain": "Visual Analysis"
+    }
+  ],
+  "generated_at": "2026-01-08T23:00:56.937190",
+  "output_format": "jpg",
+  "grid_path": "summary/storyboard.jpg",
+  "video_pacing": "Slow",
+  "summary_confidence": "HIGH",
+  "stability_ratio": 1.0,
+  "importance_weights": {
+    "representativeness": 0.25,
+    "dominance": 0.15,
+    "visual_richness": 0.2,
+    "temporal_coverage": 0.15,
+    "visual_novelty": 0.15,
+    "motion_context": 0.1
+  },
+  "compression_ratio": 6.67,
+  "redundancy_removed": 0.5,
+  "temporal_coverage_score": 0.4,
+  "summary_reason": "Stable content summarized into 1 key moments (~0.07 keyframes/sec)."
+}

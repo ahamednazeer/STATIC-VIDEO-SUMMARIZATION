@@ -1,0 +1,31 @@
+{
+  "job_id": 14,
+  "video_filename": "1841002-hd_1366_720_24fps.mp4",
+  "video_duration": 13.333333333333334,
+  "total_frames_original": 320,
+  "frames_after_filtering": 3,
+  "num_clusters": 2,
+  "keyframes": [
+    {
+      "index": 1,
+      "frame_id": 72,
+      "timestamp": 3.0,
+      "timestamp_formatted": "00:03",
+      "cluster_id": 0,
+      "distance_to_centroid": 0.068105,
+      "path": "summary/keyframe_001.jpg"
+    },
+    {
+      "index": 2,
+      "frame_id": 271,
+      "timestamp": 11.291666666666666,
+      "timestamp_formatted": "00:11",
+      "cluster_id": 1,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_002.jpg"
+    }
+  ],
+  "generated_at": "2026-01-08T17:59:57.254426",
+  "output_format": "jpg",
+  "grid_path": "summary/storyboard.jpg"
+}

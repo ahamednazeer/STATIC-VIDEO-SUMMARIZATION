@@ -1,0 +1,508 @@
+{
+  "job_id": 43,
+  "video_filename": "Matka Chicken.mp4",
+  "video_duration": 20.87,
+  "total_frames_original": 626,
+  "frames_after_filtering": 26,
+  "num_clusters": 10,
+  "keyframes": [
+    {
+      "index": 1,
+      "frame_id": 90,
+      "timestamp": 3.0,
+      "timestamp_formatted": "00:03",
+      "cluster_id": 5,
+      "distance_to_centroid": 0.067963,
+      "path": "summary/keyframe_001.jpg",
+      "importance_score": 0.7314,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 1.0,
+        "representativeness": 1.0,
+        "visual_richness": 0.172,
+        "dominance": 0.667,
+        "temporal_coverage": 0.727,
+        "visual_novelty": 0.8
+      },
+      "deep_analysis": {
+        "caption": "Visual observation of the scene.",
+        "objects": [
+          {
+            "label": "Visual object",
+            "score": 0.8
+          }
+        ],
+        "actions": [
+          {
+            "label": "Activity",
+            "score": 0.8
+          }
+        ],
+        "environment": [
+          {
+            "label": "Scene",
+            "score": 0.8
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Standard",
+            "score": 0.8
+          }
+        ]
+      },
+      "context": "Visual observation of the scene.",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 2,
+      "frame_id": 105,
+      "timestamp": 3.5,
+      "timestamp_formatted": "00:03",
+      "cluster_id": 7,
+      "distance_to_centroid": 0.043075,
+      "path": "summary/keyframe_002.jpg",
+      "importance_score": 0.6668,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.638,
+        "representativeness": 1.0,
+        "visual_richness": 0.195,
+        "dominance": 0.667,
+        "temporal_coverage": 0.727,
+        "visual_novelty": 0.7
+      },
+      "deep_analysis": {
+        "caption": "Visual observation of the scene.",
+        "objects": [
+          {
+            "label": "Visual object",
+            "score": 0.8
+          }
+        ],
+        "actions": [
+          {
+            "label": "Activity",
+            "score": 0.8
+          }
+        ],
+        "environment": [
+          {
+            "label": "Scene",
+            "score": 0.8
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Standard",
+            "score": 0.8
+          }
+        ]
+      },
+      "context": "Visual observation of the scene.",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 3,
+      "frame_id": 147,
+      "timestamp": 4.9,
+      "timestamp_formatted": "00:04",
+      "cluster_id": 10,
+      "distance_to_centroid": 0.070815,
+      "path": "summary/keyframe_003.jpg",
+      "importance_score": 0.7185,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.739,
+        "representativeness": 1.0,
+        "visual_richness": 0.228,
+        "dominance": 0.667,
+        "temporal_coverage": 0.727,
+        "visual_novelty": 0.9
+      },
+      "deep_analysis": {
+        "caption": "Visual observation of the scene.",
+        "objects": [
+          {
+            "label": "Visual object",
+            "score": 0.8
+          }
+        ],
+        "actions": [
+          {
+            "label": "Activity",
+            "score": 0.8
+          }
+        ],
+        "environment": [
+          {
+            "label": "Scene",
+            "score": 0.8
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Standard",
+            "score": 0.8
+          }
+        ]
+      },
+      "context": "Visual observation of the scene.",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 4,
+      "frame_id": 269,
+      "timestamp": 8.966666666666667,
+      "timestamp_formatted": "00:08",
+      "cluster_id": 10,
+      "distance_to_centroid": 0.070815,
+      "path": "summary/keyframe_004.jpg",
+      "importance_score": 0.7039,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.581,
+        "representativeness": 1.0,
+        "visual_richness": 0.198,
+        "dominance": 0.667,
+        "temporal_coverage": 0.727,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "caption": "Visual observation of the scene.",
+        "objects": [
+          {
+            "label": "Visual object",
+            "score": 0.8
+          }
+        ],
+        "actions": [
+          {
+            "label": "Activity",
+            "score": 0.8
+          }
+        ],
+        "environment": [
+          {
+            "label": "Scene",
+            "score": 0.8
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Standard",
+            "score": 0.8
+          }
+        ]
+      },
+      "context": "Visual observation of the scene.",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 5,
+      "frame_id": 374,
+      "timestamp": 12.466666666666667,
+      "timestamp_formatted": "00:12",
+      "cluster_id": 6,
+      "distance_to_centroid": 0.076887,
+      "path": "summary/keyframe_005.jpg",
+      "importance_score": 0.4558,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.502,
+        "representativeness": 0.0,
+        "visual_richness": 0.205,
+        "dominance": 0.8,
+        "temporal_coverage": 0.727,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "caption": "Visual observation of the scene.",
+        "objects": [
+          {
+            "label": "Visual object",
+            "score": 0.8
+          }
+        ],
+        "actions": [
+          {
+            "label": "Activity",
+            "score": 0.8
+          }
+        ],
+        "environment": [
+          {
+            "label": "Scene",
+            "score": 0.8
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Standard",
+            "score": 0.8
+          }
+        ]
+      },
+      "context": "Visual observation of the scene.",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 6,
+      "frame_id": 431,
+      "timestamp": 14.366666666666667,
+      "timestamp_formatted": "00:14",
+      "cluster_id": 2,
+      "distance_to_centroid": 0.034373,
+      "path": "summary/keyframe_006.jpg",
+      "importance_score": 0.439,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.343,
+        "representativeness": 1.0,
+        "visual_richness": 0.105,
+        "dominance": 0.667,
+        "temporal_coverage": 0.325,
+        "visual_novelty": 0.0
+      },
+      "deep_analysis": {
+        "caption": "Visual observation of the scene.",
+        "objects": [
+          {
+            "label": "Visual object",
+            "score": 0.8
+          }
+        ],
+        "actions": [
+          {
+            "label": "Activity",
+            "score": 0.8
+          }
+        ],
+        "environment": [
+          {
+            "label": "Scene",
+            "score": 0.8
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Standard",
+            "score": 0.8
+          }
+        ]
+      },
+      "context": "Visual observation of the scene.",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 7,
+      "frame_id": 459,
+      "timestamp": 15.3,
+      "timestamp_formatted": "00:15",
+      "cluster_id": 0,
+      "distance_to_centroid": 0.036921,
+      "path": "summary/keyframe_007.jpg",
+      "importance_score": 0.566,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.658,
+        "representativeness": 1.0,
+        "visual_richness": 0.209,
+        "dominance": 0.8,
+        "temporal_coverage": 0.325,
+        "visual_novelty": 0.3
+      },
+      "deep_analysis": {
+        "caption": "Visual observation of the scene.",
+        "objects": [
+          {
+            "label": "Visual object",
+            "score": 0.8
+          }
+        ],
+        "actions": [
+          {
+            "label": "Activity",
+            "score": 0.8
+          }
+        ],
+        "environment": [
+          {
+            "label": "Scene",
+            "score": 0.8
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Standard",
+            "score": 0.8
+          }
+        ]
+      },
+      "context": "Visual observation of the scene.",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 8,
+      "frame_id": 538,
+      "timestamp": 17.933333333333334,
+      "timestamp_formatted": "00:17",
+      "cluster_id": 6,
+      "distance_to_centroid": 0.036171,
+      "path": "summary/keyframe_008.jpg",
+      "importance_score": 0.6597,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.684,
+        "representativeness": 1.0,
+        "visual_richness": 0.208,
+        "dominance": 0.8,
+        "temporal_coverage": 0.325,
+        "visual_novelty": 0.9
+      },
+      "deep_analysis": {
+        "caption": "Visual observation of the scene.",
+        "objects": [
+          {
+            "label": "Visual object",
+            "score": 0.8
+          }
+        ],
+        "actions": [
+          {
+            "label": "Activity",
+            "score": 0.8
+          }
+        ],
+        "environment": [
+          {
+            "label": "Scene",
+            "score": 0.8
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Standard",
+            "score": 0.8
+          }
+        ]
+      },
+      "context": "Visual observation of the scene.",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 9,
+      "frame_id": 553,
+      "timestamp": 18.433333333333334,
+      "timestamp_formatted": "00:18",
+      "cluster_id": 3,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_009.jpg",
+      "importance_score": 0.6433,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.873,
+        "representativeness": 1.0,
+        "visual_richness": 0.219,
+        "dominance": 0.333,
+        "temporal_coverage": 0.325,
+        "visual_novelty": 0.9
+      },
+      "deep_analysis": {
+        "caption": "Visual observation of the scene.",
+        "objects": [
+          {
+            "label": "Visual object",
+            "score": 0.8
+          }
+        ],
+        "actions": [
+          {
+            "label": "Activity",
+            "score": 0.8
+          }
+        ],
+        "environment": [
+          {
+            "label": "Scene",
+            "score": 0.8
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Standard",
+            "score": 0.8
+          }
+        ]
+      },
+      "context": "Visual observation of the scene.",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 10,
+      "frame_id": 608,
+      "timestamp": 20.266666666666666,
+      "timestamp_formatted": "00:20",
+      "cluster_id": 9,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_010.jpg",
+      "importance_score": 0.6665,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.908,
+        "representativeness": 1.0,
+        "visual_richness": 0.227,
+        "dominance": 0.333,
+        "temporal_coverage": 0.325,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "caption": "Visual observation of the scene.",
+        "objects": [
+          {
+            "label": "Visual object",
+            "score": 0.8
+          }
+        ],
+        "actions": [
+          {
+            "label": "Activity",
+            "score": 0.8
+          }
+        ],
+        "environment": [
+          {
+            "label": "Scene",
+            "score": 0.8
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Standard",
+            "score": 0.8
+          }
+        ]
+      },
+      "context": "Visual observation of the scene.",
+      "domain": "Visual Analysis"
+    }
+  ],
+  "generated_at": "2026-01-08T22:09:17.516997",
+  "output_format": "jpg",
+  "grid_path": "summary/storyboard.jpg",
+  "video_pacing": "Fast",
+  "summary_confidence": "HIGH",
+  "stability_ratio": 1.0,
+  "importance_weights": {
+    "representativeness": 0.25,
+    "dominance": 0.1,
+    "visual_richness": 0.2,
+    "temporal_coverage": 0.15,
+    "visual_novelty": 0.15,
+    "motion_context": 0.15
+  },
+  "compression_ratio": 1.04,
+  "redundancy_removed": 0.6154,
+  "temporal_coverage_score": 0.53,
+  "summary_reason": "High motion content summarized into 10 key moments (~0.48 keyframes/sec)."
+}

@@ -1,0 +1,20 @@
+{
+  "job_id": 19,
+  "video_filename": "Matka Chicken.mp4",
+  "video_duration": 20.866666666666667,
+  "total_frames_original": 626,
+  "frames_after_filtering": 26,
+  "num_clusters": 24,
+  "keyframes": [
+    {
+      "index": 1,
+      "frame_id": 90,
+      "timestamp": 3.0,
+      "timestamp_formatted": "00:03",
+      "cluster_id": 5,
+      "distance_to_centroid": 0.067963,
+      "path": "summary/keyframe_001.jpg",
+      "importance_score": 0.4478,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "representativeness": 

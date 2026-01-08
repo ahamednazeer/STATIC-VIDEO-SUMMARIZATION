@@ -1,0 +1,1123 @@
+{
+  "job_id": 42,
+  "video_filename": "Red_Dead_Redemption_2_Trailer_1080p.mp4",
+  "video_duration": 68.3,
+  "total_frames_original": 2047,
+  "frames_after_filtering": 33,
+  "num_clusters": 15,
+  "keyframes": [
+    {
+      "index": 1,
+      "frame_id": 243,
+      "timestamp": 8.1081,
+      "timestamp_formatted": "00:08",
+      "cluster_id": 6,
+      "distance_to_centroid": 0.024954,
+      "path": "summary/keyframe_001.jpg",
+      "importance_score": 0.5383,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.09,
+        "representativeness": 1.0,
+        "visual_richness": 0.08,
+        "dominance": 0.5,
+        "temporal_coverage": 0.682,
+        "visual_novelty": 0.7
+      },
+      "deep_analysis": {
+        "domain": "Nature",
+        "domain_confidence": 0.97509765625,
+        "objects": [
+          {
+            "label": "Sunset sky",
+            "score": 0.38671875
+          },
+          {
+            "label": "Mountain range",
+            "score": 0.30126953125
+          },
+          {
+            "label": "Person in background",
+            "score": 0.72021484375
+          },
+          {
+            "label": "A person's face",
+            "score": 0.12127685546875
+          }
+        ],
+        "actions": [
+          {
+            "label": "Scenic landscape viewing",
+            "score": 0.394287109375
+          },
+          {
+            "label": "Natural phenomenon occurring",
+            "score": 0.35888671875
+          }
+        ],
+        "environment": [
+          {
+            "label": "Wilderness",
+            "score": 0.720703125
+          },
+          {
+            "label": "High altitude landscape",
+            "score": 0.1353759765625
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Calm atmosphere",
+            "score": 0.63720703125
+          },
+          {
+            "label": "Fast motion",
+            "score": 0.2169189453125
+          }
+        ]
+      },
+      "domain": "Nature",
+      "context": "[Nature] Scenic landscape viewing featuring sunset sky."
+    },
+    {
+      "index": 2,
+      "frame_id": 374,
+      "timestamp": 12.479133333333333,
+      "timestamp_formatted": "00:12",
+      "cluster_id": 12,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_002.jpg",
+      "importance_score": 0.6204,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.498,
+        "representativeness": 1.0,
+        "visual_richness": 0.122,
+        "dominance": 0.167,
+        "temporal_coverage": 0.682,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "domain": "Nature",
+        "domain_confidence": 0.9921875,
+        "objects": [
+          {
+            "label": "Mountain range",
+            "score": 0.64404296875
+          },
+          {
+            "label": "Green grass",
+            "score": 0.1654052734375
+          },
+          {
+            "label": "Person in background",
+            "score": 0.732421875
+          },
+          {
+            "label": "Human interaction",
+            "score": 0.11236572265625
+          }
+        ],
+        "actions": [
+          {
+            "label": "Wildlife observing",
+            "score": 0.395751953125
+          },
+          {
+            "label": "Scenic landscape viewing",
+            "score": 0.34375
+          }
+        ],
+        "environment": [
+          {
+            "label": "Wilderness",
+            "score": 0.73681640625
+          },
+          {
+            "label": "Remote habitat",
+            "score": 0.0880126953125
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Calm atmosphere",
+            "score": 0.340087890625
+          },
+          {
+            "label": "Fast motion",
+            "score": 0.264892578125
+          }
+        ]
+      },
+      "domain": "Nature",
+      "context": "[Nature] Wildlife observing featuring mountain range."
+    },
+    {
+      "index": 3,
+      "frame_id": 449,
+      "timestamp": 14.981633333333333,
+      "timestamp_formatted": "00:14",
+      "cluster_id": 20,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_003.jpg",
+      "importance_score": 0.6257,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.506,
+        "representativeness": 1.0,
+        "visual_richness": 0.143,
+        "dominance": 0.167,
+        "temporal_coverage": 0.682,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "domain": "Nature",
+        "domain_confidence": 0.8642578125,
+        "objects": [
+          {
+            "label": "Green grass",
+            "score": 0.470703125
+          },
+          {
+            "label": "Sunset sky",
+            "score": 0.36083984375
+          },
+          {
+            "label": "Person in background",
+            "score": 0.7109375
+          },
+          {
+            "label": "Hand gesture",
+            "score": 0.1585693359375
+          }
+        ],
+        "actions": [
+          {
+            "label": "Outdoor exploration",
+            "score": 0.350830078125
+          },
+          {
+            "label": "Wildlife observing",
+            "score": 0.304931640625
+          }
+        ],
+        "environment": [
+          {
+            "label": "Wilderness",
+            "score": 0.65576171875
+          },
+          {
+            "label": "Outdoor natural light",
+            "score": 0.12127685546875
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Soft lighting",
+            "score": 0.464111328125
+          },
+          {
+            "label": "Calm atmosphere",
+            "score": 0.2261962890625
+          }
+        ]
+      },
+      "domain": "Nature",
+      "context": "[Nature] Outdoor exploration featuring green grass."
+    },
+    {
+      "index": 4,
+      "frame_id": 529,
+      "timestamp": 17.650966666666665,
+      "timestamp_formatted": "00:17",
+      "cluster_id": 19,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_004.jpg",
+      "importance_score": 0.6118,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.482,
+        "representativeness": 1.0,
+        "visual_richness": 0.093,
+        "dominance": 0.167,
+        "temporal_coverage": 0.682,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "domain": "Nature",
+        "domain_confidence": 0.9873046875,
+        "objects": [
+          {
+            "label": "Forest trees",
+            "score": 0.9677734375
+          },
+          {
+            "label": "Mountain range",
+            "score": 0.01218414306640625
+          },
+          {
+            "label": "Person in background",
+            "score": 0.541015625
+          },
+          {
+            "label": "A person's face",
+            "score": 0.2254638671875
+          }
+        ],
+        "actions": [
+          {
+            "label": "Outdoor exploration",
+            "score": 0.64013671875
+          },
+          {
+            "label": "Natural phenomenon occurring",
+            "score": 0.201416015625
+          }
+        ],
+        "environment": [
+          {
+            "label": "Wilderness",
+            "score": 0.845703125
+          },
+          {
+            "label": "Outdoor natural light",
+            "score": 0.061279296875
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Soft lighting",
+            "score": 0.479248046875
+          },
+          {
+            "label": "Calm atmosphere",
+            "score": 0.397216796875
+          }
+        ]
+      },
+      "domain": "Nature",
+      "context": "[Nature] Outdoor exploration featuring forest trees."
+    },
+    {
+      "index": 5,
+      "frame_id": 682,
+      "timestamp": 22.756066666666666,
+      "timestamp_formatted": "00:22",
+      "cluster_id": 18,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_005.jpg",
+      "importance_score": 0.6323,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.629,
+        "representativeness": 1.0,
+        "visual_richness": 0.085,
+        "dominance": 0.167,
+        "temporal_coverage": 0.682,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "domain": "Nature",
+        "domain_confidence": 0.982421875,
+        "objects": [
+          {
+            "label": "Mountain range",
+            "score": 0.37255859375
+          },
+          {
+            "label": "Flowing river",
+            "score": 0.2900390625
+          },
+          {
+            "label": "A person's face",
+            "score": 0.439453125
+          },
+          {
+            "label": "Person in background",
+            "score": 0.2464599609375
+          }
+        ],
+        "actions": [
+          {
+            "label": "Outdoor exploration",
+            "score": 0.384521484375
+          },
+          {
+            "label": "Scenic landscape viewing",
+            "score": 0.361083984375
+          }
+        ],
+        "environment": [
+          {
+            "label": "Wilderness",
+            "score": 0.7822265625
+          },
+          {
+            "label": "High altitude landscape",
+            "score": 0.07275390625
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Calm atmosphere",
+            "score": 0.443359375
+          },
+          {
+            "label": "Soft lighting",
+            "score": 0.334716796875
+          }
+        ]
+      },
+      "domain": "Nature",
+      "context": "[Nature] Outdoor exploration featuring mountain range."
+    },
+    {
+      "index": 6,
+      "frame_id": 910,
+      "timestamp": 30.363666666666667,
+      "timestamp_formatted": "00:30",
+      "cluster_id": 10,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_006.jpg",
+      "importance_score": 0.6942,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.788,
+        "representativeness": 1.0,
+        "visual_richness": 0.231,
+        "dominance": 0.167,
+        "temporal_coverage": 0.736,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "domain": "Nature",
+        "domain_confidence": 0.9208984375,
+        "objects": [
+          {
+            "label": "Wild animals",
+            "score": 0.45068359375
+          },
+          {
+            "label": "Mountain range",
+            "score": 0.43017578125
+          },
+          {
+            "label": "Person in background",
+            "score": 0.6611328125
+          },
+          {
+            "label": "Human interaction",
+            "score": 0.2509765625
+          }
+        ],
+        "actions": [
+          {
+            "label": "Wildlife observing",
+            "score": 0.351318359375
+          },
+          {
+            "label": "Outdoor exploration",
+            "score": 0.335205078125
+          }
+        ],
+        "environment": [
+          {
+            "label": "Wilderness",
+            "score": 0.6943359375
+          },
+          {
+            "label": "National park",
+            "score": 0.1304931640625
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Fast motion",
+            "score": 0.65869140625
+          },
+          {
+            "label": "Sharp focus",
+            "score": 0.10919189453125
+          }
+        ]
+      },
+      "domain": "Nature",
+      "context": "[Nature] Wildlife observing featuring wild animals."
+    },
+    {
+      "index": 7,
+      "frame_id": 986,
+      "timestamp": 32.89953333333333,
+      "timestamp_formatted": "00:32",
+      "cluster_id": 17,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_007.jpg",
+      "importance_score": 0.6777,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.779,
+        "representativeness": 1.0,
+        "visual_richness": 0.156,
+        "dominance": 0.167,
+        "temporal_coverage": 0.736,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "domain": "Nature",
+        "domain_confidence": 0.96728515625,
+        "objects": [
+          {
+            "label": "Flowing river",
+            "score": 0.23828125
+          },
+          {
+            "label": "Sunset sky",
+            "score": 0.197509765625
+          },
+          {
+            "label": "Person in background",
+            "score": 0.80712890625
+          },
+          {
+            "label": "Human interaction",
+            "score": 0.089111328125
+          }
+        ],
+        "actions": [
+          {
+            "label": "Scenic landscape viewing",
+            "score": 0.40234375
+          },
+          {
+            "label": "Wildlife observing",
+            "score": 0.308349609375
+          }
+        ],
+        "environment": [
+          {
+            "label": "Wilderness",
+            "score": 0.78076171875
+          },
+          {
+            "label": "Remote habitat",
+            "score": 0.11602783203125
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Calm atmosphere",
+            "score": 0.89990234375
+          },
+          {
+            "label": "Soft lighting",
+            "score": 0.0447998046875
+          }
+        ]
+      },
+      "domain": "Nature",
+      "context": "[Nature] Scenic landscape viewing featuring flowing river."
+    },
+    {
+      "index": 8,
+      "frame_id": 1064,
+      "timestamp": 35.50213333333333,
+      "timestamp_formatted": "00:35",
+      "cluster_id": 4,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_008.jpg",
+      "importance_score": 0.6896,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.789,
+        "representativeness": 1.0,
+        "visual_richness": 0.213,
+        "dominance": 0.167,
+        "temporal_coverage": 0.736,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "domain": "Nature",
+        "domain_confidence": 0.8076171875,
+        "objects": [
+          {
+            "label": "Green grass",
+            "score": 0.439453125
+          },
+          {
+            "label": "Wild animals",
+            "score": 0.292724609375
+          },
+          {
+            "label": "Person in background",
+            "score": 0.76513671875
+          },
+          {
+            "label": "Human interaction",
+            "score": 0.09881591796875
+          }
+        ],
+        "actions": [
+          {
+            "label": "Wildlife observing",
+            "score": 0.45458984375
+          },
+          {
+            "label": "Natural phenomenon occurring",
+            "score": 0.2509765625
+          }
+        ],
+        "environment": [
+          {
+            "label": "Wilderness",
+            "score": 0.53759765625
+          },
+          {
+            "label": "National park",
+            "score": 0.18017578125
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Fast motion",
+            "score": 0.9130859375
+          },
+          {
+            "label": "Sharp focus",
+            "score": 0.05230712890625
+          }
+        ]
+      },
+      "domain": "Nature",
+      "context": "[Nature] Wildlife observing featuring green grass."
+    },
+    {
+      "index": 9,
+      "frame_id": 1140,
+      "timestamp": 38.038000000000004,
+      "timestamp_formatted": "00:38",
+      "cluster_id": 16,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_009.jpg",
+      "importance_score": 0.7081,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.957,
+        "representativeness": 1.0,
+        "visual_richness": 0.179,
+        "dominance": 0.167,
+        "temporal_coverage": 0.736,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "domain": "Industrial",
+        "domain_confidence": 0.321044921875,
+        "objects": [
+          {
+            "label": "Heavy machinery",
+            "score": 0.61572265625
+          },
+          {
+            "label": "Raw materials",
+            "score": 0.146240234375
+          },
+          {
+            "label": "Human interaction",
+            "score": 0.5234375
+          },
+          {
+            "label": "Person in background",
+            "score": 0.407470703125
+          }
+        ],
+        "actions": [
+          {
+            "label": "Manufacturing process",
+            "score": 0.320068359375
+          },
+          {
+            "label": "Industrial maintenance",
+            "score": 0.305419921875
+          }
+        ],
+        "environment": [
+          {
+            "label": "Production line",
+            "score": 0.91162109375
+          },
+          {
+            "label": "Industrial warehouse",
+            "score": 0.06396484375
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Fast motion",
+            "score": 0.7197265625
+          },
+          {
+            "label": "Calm atmosphere",
+            "score": 0.1820068359375
+          }
+        ]
+      },
+      "domain": "Industrial",
+      "context": "Observed moment featuring heavy machinery."
+    },
+    {
+      "index": 10,
+      "frame_id": 1216,
+      "timestamp": 40.57386666666667,
+      "timestamp_formatted": "00:40",
+      "cluster_id": 0,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_010.jpg",
+      "importance_score": 0.6987,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 1.0,
+        "representativeness": 1.0,
+        "visual_richness": 0.098,
+        "dominance": 0.167,
+        "temporal_coverage": 0.736,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "domain": "Nature",
+        "domain_confidence": 0.357177734375,
+        "objects": [
+          {
+            "label": "Mountain range",
+            "score": 0.75
+          },
+          {
+            "label": "Green grass",
+            "score": 0.09686279296875
+          },
+          {
+            "label": "Person in background",
+            "score": 0.53857421875
+          },
+          {
+            "label": "Hand gesture",
+            "score": 0.2109375
+          }
+        ],
+        "actions": [
+          {
+            "label": "Scenic landscape viewing",
+            "score": 0.361572265625
+          },
+          {
+            "label": "Wildlife observing",
+            "score": 0.33447265625
+          }
+        ],
+        "environment": [
+          {
+            "label": "Wilderness",
+            "score": 0.376708984375
+          },
+          {
+            "label": "Remote habitat",
+            "score": 0.337646484375
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Fast motion",
+            "score": 0.53271484375
+          },
+          {
+            "label": "Soft lighting",
+            "score": 0.21533203125
+          }
+        ]
+      },
+      "domain": "Nature",
+      "context": "Observed moment featuring mountain range."
+    },
+    {
+      "index": 11,
+      "frame_id": 1370,
+      "timestamp": 45.71233333333333,
+      "timestamp_formatted": "00:45",
+      "cluster_id": 15,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_011.jpg",
+      "importance_score": 0.6195,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.883,
+        "representativeness": 1.0,
+        "visual_richness": 0.083,
+        "dominance": 0.167,
+        "temporal_coverage": 0.347,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "domain": "Industrial",
+        "domain_confidence": 0.60400390625,
+        "objects": [
+          {
+            "label": "Heavy machinery",
+            "score": 0.490234375
+          },
+          {
+            "label": "Industrial tools",
+            "score": 0.1920166015625
+          },
+          {
+            "label": "Person in background",
+            "score": 0.66455078125
+          },
+          {
+            "label": "A person's face",
+            "score": 0.1578369140625
+          }
+        ],
+        "actions": [
+          {
+            "label": "Industrial maintenance",
+            "score": 0.96435546875
+          },
+          {
+            "label": "Manufacturing process",
+            "score": 0.0273590087890625
+          }
+        ],
+        "environment": [
+          {
+            "label": "Industrial warehouse",
+            "score": 0.78125
+          },
+          {
+            "label": "Construction site",
+            "score": 0.1514892578125
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Calm atmosphere",
+            "score": 0.481689453125
+          },
+          {
+            "label": "Fast motion",
+            "score": 0.40576171875
+          }
+        ]
+      },
+      "domain": "Industrial",
+      "context": "[Industrial] Industrial maintenance featuring heavy machinery."
+    },
+    {
+      "index": 12,
+      "frame_id": 1598,
+      "timestamp": 53.31993333333333,
+      "timestamp_formatted": "00:53",
+      "cluster_id": 9,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_012.jpg",
+      "importance_score": 0.6046,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.831,
+        "representativeness": 1.0,
+        "visual_richness": 0.124,
+        "dominance": 0.167,
+        "temporal_coverage": 0.347,
+        "visual_novelty": 0.9
+      },
+      "deep_analysis": {
+        "domain": "Nature",
+        "domain_confidence": 0.89697265625,
+        "objects": [
+          {
+            "label": "Mountain range",
+            "score": 0.346923828125
+          },
+          {
+            "label": "Wild animals",
+            "score": 0.336181640625
+          },
+          {
+            "label": "Person in background",
+            "score": 0.544921875
+          },
+          {
+            "label": "Human interaction",
+            "score": 0.25341796875
+          }
+        ],
+        "actions": [
+          {
+            "label": "Wildlife observing",
+            "score": 0.3974609375
+          },
+          {
+            "label": "Outdoor exploration",
+            "score": 0.356201171875
+          }
+        ],
+        "environment": [
+          {
+            "label": "Wilderness",
+            "score": 0.642578125
+          },
+          {
+            "label": "National park",
+            "score": 0.255615234375
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Fast motion",
+            "score": 0.9169921875
+          },
+          {
+            "label": "Sharp focus",
+            "score": 0.045654296875
+          }
+        ]
+      },
+      "domain": "Nature",
+      "context": "[Nature] Wildlife observing featuring mountain range."
+    },
+    {
+      "index": 13,
+      "frame_id": 1631,
+      "timestamp": 54.421033333333334,
+      "timestamp_formatted": "00:54",
+      "cluster_id": 2,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_013.jpg",
+      "importance_score": 0.5313,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.681,
+        "representativeness": 1.0,
+        "visual_richness": 0.098,
+        "dominance": 0.167,
+        "temporal_coverage": 0.347,
+        "visual_novelty": 0.6
+      },
+      "deep_analysis": {
+        "domain": "Nature",
+        "domain_confidence": 0.681640625,
+        "objects": [
+          {
+            "label": "Wild animals",
+            "score": 0.62109375
+          },
+          {
+            "label": "Green grass",
+            "score": 0.2178955078125
+          },
+          {
+            "label": "Person in background",
+            "score": 0.66015625
+          },
+          {
+            "label": "Hand gesture",
+            "score": 0.1495361328125
+          }
+        ],
+        "actions": [
+          {
+            "label": "Wildlife observing",
+            "score": 0.67236328125
+          },
+          {
+            "label": "Scenic landscape viewing",
+            "score": 0.1500244140625
+          }
+        ],
+        "environment": [
+          {
+            "label": "Wilderness",
+            "score": 0.7119140625
+          },
+          {
+            "label": "Remote habitat",
+            "score": 0.08636474609375
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Fast motion",
+            "score": 0.68701171875
+          },
+          {
+            "label": "Sharp focus",
+            "score": 0.2449951171875
+          }
+        ]
+      },
+      "domain": "Nature",
+      "context": "[Nature] Wildlife observing featuring wild animals."
+    },
+    {
+      "index": 14,
+      "frame_id": 1698,
+      "timestamp": 56.656600000000005,
+      "timestamp_formatted": "00:56",
+      "cluster_id": 1,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_014.jpg",
+      "importance_score": 0.5146,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.231,
+        "representativeness": 1.0,
+        "visual_richness": 0.126,
+        "dominance": 0.167,
+        "temporal_coverage": 0.347,
+        "visual_novelty": 0.9
+      },
+      "deep_analysis": {
+        "domain": "Nature",
+        "domain_confidence": 0.9814453125,
+        "objects": [
+          {
+            "label": "Mountain range",
+            "score": 0.935546875
+          },
+          {
+            "label": "Green grass",
+            "score": 0.045166015625
+          },
+          {
+            "label": "Person in background",
+            "score": 0.5517578125
+          },
+          {
+            "label": "Human interaction",
+            "score": 0.1708984375
+          }
+        ],
+        "actions": [
+          {
+            "label": "Scenic landscape viewing",
+            "score": 0.48974609375
+          },
+          {
+            "label": "Outdoor exploration",
+            "score": 0.311279296875
+          }
+        ],
+        "environment": [
+          {
+            "label": "Wilderness",
+            "score": 0.4365234375
+          },
+          {
+            "label": "High altitude landscape",
+            "score": 0.34521484375
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Fast motion",
+            "score": 0.7001953125
+          },
+          {
+            "label": "Calm atmosphere",
+            "score": 0.1142578125
+          }
+        ]
+      },
+      "domain": "Nature",
+      "context": "[Nature] Scenic landscape viewing featuring mountain range."
+    },
+    {
+      "index": 15,
+      "frame_id": 1746,
+      "timestamp": 58.2582,
+      "timestamp_formatted": "00:58",
+      "cluster_id": 7,
+      "distance_to_centroid": 0.024625,
+      "path": "summary/keyframe_015.jpg",
+      "importance_score": 0.5037,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.129,
+        "representativeness": 1.0,
+        "visual_richness": 0.126,
+        "dominance": 0.8,
+        "temporal_coverage": 0.347,
+        "visual_novelty": 0.5
+      },
+      "deep_analysis": {
+        "domain": "Nature",
+        "domain_confidence": 0.9892578125,
+        "objects": [
+          {
+            "label": "Mountain range",
+            "score": 0.9140625
+          },
+          {
+            "label": "Green grass",
+            "score": 0.07501220703125
+          },
+          {
+            "label": "Person in background",
+            "score": 0.7626953125
+          },
+          {
+            "label": "A person's face",
+            "score": 0.116943359375
+          }
+        ],
+        "actions": [
+          {
+            "label": "Scenic landscape viewing",
+            "score": 0.6416015625
+          },
+          {
+            "label": "Outdoor exploration",
+            "score": 0.208251953125
+          }
+        ],
+        "environment": [
+          {
+            "label": "Wilderness",
+            "score": 0.437744140625
+          },
+          {
+            "label": "High altitude landscape",
+            "score": 0.2783203125
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Fast motion",
+            "score": 0.42578125
+          },
+          {
+            "label": "Soft lighting",
+            "score": 0.2279052734375
+          }
+        ]
+      },
+      "domain": "Nature",
+      "context": "[Nature] Scenic landscape viewing featuring mountain range."
+    }
+  ],
+  "generated_at": "2026-01-08T22:02:35.995795",
+  "output_format": "jpg",
+  "grid_path": "summary/storyboard.jpg",
+  "video_pacing": "Moderate",
+  "summary_confidence": "HIGH",
+  "stability_ratio": 0.92,
+  "importance_weights": {
+    "representativeness": 0.25,
+    "dominance": 0.1,
+    "visual_richness": 0.2,
+    "temporal_coverage": 0.15,
+    "visual_novelty": 0.15,
+    "motion_context": 0.15
+  },
+  "compression_ratio": 2.28,
+  "redundancy_removed": 0.5455,
+  "temporal_coverage_score": 0.59,
+  "summary_reason": "Balanced content summarized into 15 key moments (~0.22 keyframes/sec)."
+}

@@ -1,0 +1,103 @@
+{
+  "job_id": 8,
+  "video_filename": "Matka Chicken.mp4",
+  "video_duration": 20.866666666666667,
+  "total_frames_original": 626,
+  "frames_after_filtering": 21,
+  "num_clusters": 10,
+  "keyframes": [
+    {
+      "index": 1,
+      "frame_id": 0,
+      "timestamp": 0.0,
+      "timestamp_formatted": "00:00",
+      "cluster_id": 0,
+      "distance_to_centroid": 0.04574,
+      "path": "summary/keyframe_001.jpg"
+    },
+    {
+      "index": 2,
+      "frame_id": 79,
+      "timestamp": 2.6333333333333333,
+      "timestamp_formatted": "00:02",
+      "cluster_id": 5,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_002.jpg"
+    },
+    {
+      "index": 3,
+      "frame_id": 122,
+      "timestamp": 4.066666666666666,
+      "timestamp_formatted": "00:04",
+      "cluster_id": 7,
+      "distance_to_centroid": 0.047008,
+      "path": "summary/keyframe_003.jpg"
+    },
+    {
+      "index": 4,
+      "frame_id": 151,
+      "timestamp": 5.033333333333333,
+      "timestamp_formatted": "00:05",
+      "cluster_id": 1,
+      "distance_to_centroid": 0.05177,
+      "path": "summary/keyframe_004.jpg"
+    },
+    {
+      "index": 5,
+      "frame_id": 410,
+      "timestamp": 13.666666666666666,
+      "timestamp_formatted": "00:13",
+      "cluster_id": 2,
+      "distance_to_centroid": 0.052442,
+      "path": "summary/keyframe_005.jpg"
+    },
+    {
+      "index": 6,
+      "frame_id": 418,
+      "timestamp": 13.933333333333334,
+      "timestamp_formatted": "00:13",
+      "cluster_id": 6,
+      "distance_to_centroid": 0.055849,
+      "path": "summary/keyframe_006.jpg"
+    },
+    {
+      "index": 7,
+      "frame_id": 420,
+      "timestamp": 14.0,
+      "timestamp_formatted": "00:14",
+      "cluster_id": 3,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_007.jpg"
+    },
+    {
+      "index": 8,
+      "frame_id": 433,
+      "timestamp": 14.433333333333334,
+      "timestamp_formatted": "00:14",
+      "cluster_id": 8,
+      "distance_to_centroid": 0.063831,
+      "path": "summary/keyframe_008.jpg"
+    },
+    {
+      "index": 9,
+      "frame_id": 438,
+      "timestamp": 14.6,
+      "timestamp_formatted": "00:14",
+      "cluster_id": 9,
+      "distance_to_centroid": 0.03888,
+      "path": "summary/keyframe_009.jpg"
+    },
+    {
+      "index": 10,
+      "frame_id": 608,
+      "timestamp": 20.266666666666666,
+      "timestamp_formatted": "00:20",
+      "cluster_id": 4,
+      "distance_to_centroid": 0.080017,
+      "path": "summary/keyframe_010.jpg"
+    }
+  ],
+  "generated_at": "2026-01-08T17:39:28.374528",
+  "output_format": "jpg",
+  "grid_path": "summary/storyboard.jpg"
+}

@@ -1,0 +1,923 @@
+{
+  "job_id": 45,
+  "video_filename": "Red_Dead_Redemption_2_Trailer_1080p.mp4",
+  "video_duration": 68.3,
+  "total_frames_original": 2047,
+  "frames_after_filtering": 33,
+  "num_clusters": 15,
+  "keyframes": [
+    {
+      "index": 1,
+      "frame_id": 243,
+      "timestamp": 8.1081,
+      "timestamp_formatted": "00:08",
+      "cluster_id": 6,
+      "distance_to_centroid": 0.024954,
+      "path": "summary/keyframe_001.jpg",
+      "importance_score": 0.5381,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.09,
+        "representativeness": 1.0,
+        "visual_richness": 0.08,
+        "dominance": 0.5,
+        "temporal_coverage": 0.682,
+        "visual_novelty": 0.7
+      },
+      "deep_analysis": {
+        "caption": "A tree in the middle of a field",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Tree",
+            "score": 0.9
+          },
+          {
+            "label": "Middle",
+            "score": 0.9
+          },
+          {
+            "label": "Field",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A tree in the middle of a field",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A tree in the middle of a field",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 2,
+      "frame_id": 374,
+      "timestamp": 12.479133333333333,
+      "timestamp_formatted": "00:12",
+      "cluster_id": 12,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_002.jpg",
+      "importance_score": 0.6201,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.498,
+        "representativeness": 1.0,
+        "visual_richness": 0.122,
+        "dominance": 0.167,
+        "temporal_coverage": 0.682,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "caption": "The elder scrolls in the elder scrolls game",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Elder",
+            "score": 0.9
+          },
+          {
+            "label": "Scrolls",
+            "score": 0.9
+          },
+          {
+            "label": "Elder",
+            "score": 0.9
+          },
+          {
+            "label": "Scrolls",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "The elder scrolls in the elder scrolls game",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "The elder scrolls in the elder scrolls game",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 3,
+      "frame_id": 449,
+      "timestamp": 14.981633333333333,
+      "timestamp_formatted": "00:14",
+      "cluster_id": 20,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_003.jpg",
+      "importance_score": 0.6254,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.506,
+        "representativeness": 1.0,
+        "visual_richness": 0.143,
+        "dominance": 0.167,
+        "temporal_coverage": 0.682,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "caption": "A horse standing in a field next to a fence",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Horse",
+            "score": 0.9
+          },
+          {
+            "label": "Standing",
+            "score": 0.9
+          },
+          {
+            "label": "Field",
+            "score": 0.9
+          },
+          {
+            "label": "Next",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A horse standing in a field next to a fence",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A horse standing in a field next to a fence",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 4,
+      "frame_id": 529,
+      "timestamp": 17.650966666666665,
+      "timestamp_formatted": "00:17",
+      "cluster_id": 19,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_004.jpg",
+      "importance_score": 0.6108,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.482,
+        "representativeness": 1.0,
+        "visual_richness": 0.093,
+        "dominance": 0.167,
+        "temporal_coverage": 0.682,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "caption": "The witch within - screenshote",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Witch",
+            "score": 0.9
+          },
+          {
+            "label": "Within",
+            "score": 0.9
+          },
+          {
+            "label": "Screenshote",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "The witch within - screenshote",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "The witch within - screenshote",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 5,
+      "frame_id": 682,
+      "timestamp": 22.756066666666666,
+      "timestamp_formatted": "00:22",
+      "cluster_id": 18,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_005.jpg",
+      "importance_score": 0.6313,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.629,
+        "representativeness": 1.0,
+        "visual_richness": 0.085,
+        "dominance": 0.167,
+        "temporal_coverage": 0.682,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "caption": "A mountain scene with a river and trees",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Mountain",
+            "score": 0.9
+          },
+          {
+            "label": "Scene",
+            "score": 0.9
+          },
+          {
+            "label": "With",
+            "score": 0.9
+          },
+          {
+            "label": "River",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A mountain scene with a river and trees",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A mountain scene with a river and trees",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 6,
+      "frame_id": 910,
+      "timestamp": 30.363666666666667,
+      "timestamp_formatted": "00:30",
+      "cluster_id": 10,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_006.jpg",
+      "importance_score": 0.6924,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.788,
+        "representativeness": 1.0,
+        "visual_richness": 0.231,
+        "dominance": 0.167,
+        "temporal_coverage": 0.736,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "caption": "A man walking a horse through a field",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Walking",
+            "score": 0.9
+          },
+          {
+            "label": "Horse",
+            "score": 0.9
+          },
+          {
+            "label": "Through",
+            "score": 0.9
+          },
+          {
+            "label": "Field",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A man walking a horse through a field",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A man walking a horse through a field",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 7,
+      "frame_id": 986,
+      "timestamp": 32.89953333333333,
+      "timestamp_formatted": "00:32",
+      "cluster_id": 17,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_007.jpg",
+      "importance_score": 0.6761,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.779,
+        "representativeness": 1.0,
+        "visual_richness": 0.156,
+        "dominance": 0.167,
+        "temporal_coverage": 0.736,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "caption": "A boat is floating in the water near a tree",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Boat",
+            "score": 0.9
+          },
+          {
+            "label": "Floating",
+            "score": 0.9
+          },
+          {
+            "label": "Water",
+            "score": 0.9
+          },
+          {
+            "label": "Near",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A boat is floating in the water near a tree",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A boat is floating in the water near a tree",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 8,
+      "frame_id": 1064,
+      "timestamp": 35.50213333333333,
+      "timestamp_formatted": "00:35",
+      "cluster_id": 4,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_008.jpg",
+      "importance_score": 0.6899,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.789,
+        "representativeness": 1.0,
+        "visual_richness": 0.213,
+        "dominance": 0.167,
+        "temporal_coverage": 0.736,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "caption": "A group of bisons grazing in a field",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Group",
+            "score": 0.9
+          },
+          {
+            "label": "Bisons",
+            "score": 0.9
+          },
+          {
+            "label": "Grazing",
+            "score": 0.9
+          },
+          {
+            "label": "Field",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A group of bisons grazing in a field",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A group of bisons grazing in a field",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 9,
+      "frame_id": 1140,
+      "timestamp": 38.038000000000004,
+      "timestamp_formatted": "00:38",
+      "cluster_id": 16,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_009.jpg",
+      "importance_score": 0.709,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.957,
+        "representativeness": 1.0,
+        "visual_richness": 0.179,
+        "dominance": 0.167,
+        "temporal_coverage": 0.736,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "caption": "A horse drawn carriage in a town",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Horse",
+            "score": 0.9
+          },
+          {
+            "label": "Drawn",
+            "score": 0.9
+          },
+          {
+            "label": "Carriage",
+            "score": 0.9
+          },
+          {
+            "label": "Town",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A horse drawn carriage in a town",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A horse drawn carriage in a town",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 10,
+      "frame_id": 1216,
+      "timestamp": 40.57386666666667,
+      "timestamp_formatted": "00:40",
+      "cluster_id": 0,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_010.jpg",
+      "importance_score": 0.6978,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 1.0,
+        "representativeness": 1.0,
+        "visual_richness": 0.098,
+        "dominance": 0.167,
+        "temporal_coverage": 0.736,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "caption": "A man is walking through a barn with cows",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Walking",
+            "score": 0.9
+          },
+          {
+            "label": "Through",
+            "score": 0.9
+          },
+          {
+            "label": "Barn",
+            "score": 0.9
+          },
+          {
+            "label": "With",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A man is walking through a barn with cows",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A man is walking through a barn with cows",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 11,
+      "frame_id": 1370,
+      "timestamp": 45.71233333333333,
+      "timestamp_formatted": "00:45",
+      "cluster_id": 15,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_011.jpg",
+      "importance_score": 0.6205,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.883,
+        "representativeness": 1.0,
+        "visual_richness": 0.083,
+        "dominance": 0.167,
+        "temporal_coverage": 0.347,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "caption": "A dark sky with a windmill and a river",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Dark",
+            "score": 0.9
+          },
+          {
+            "label": "With",
+            "score": 0.9
+          },
+          {
+            "label": "Windmill",
+            "score": 0.9
+          },
+          {
+            "label": "River",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A dark sky with a windmill and a river",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A dark sky with a windmill and a river",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 12,
+      "frame_id": 1598,
+      "timestamp": 53.31993333333333,
+      "timestamp_formatted": "00:53",
+      "cluster_id": 9,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_012.jpg",
+      "importance_score": 0.6054,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.831,
+        "representativeness": 1.0,
+        "visual_richness": 0.124,
+        "dominance": 0.167,
+        "temporal_coverage": 0.347,
+        "visual_novelty": 0.9
+      },
+      "deep_analysis": {
+        "caption": "A group of people riding horses through a field",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Group",
+            "score": 0.9
+          },
+          {
+            "label": "People",
+            "score": 0.9
+          },
+          {
+            "label": "Riding",
+            "score": 0.9
+          },
+          {
+            "label": "Horses",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A group of people riding horses through a field",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A group of people riding horses through a field",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 13,
+      "frame_id": 1631,
+      "timestamp": 54.421033333333334,
+      "timestamp_formatted": "00:54",
+      "cluster_id": 2,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_013.jpg",
+      "importance_score": 0.5323,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.681,
+        "representativeness": 1.0,
+        "visual_richness": 0.098,
+        "dominance": 0.167,
+        "temporal_coverage": 0.347,
+        "visual_novelty": 0.6
+      },
+      "deep_analysis": {
+        "caption": "A group of horses running in a field",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Group",
+            "score": 0.9
+          },
+          {
+            "label": "Horses",
+            "score": 0.9
+          },
+          {
+            "label": "Running",
+            "score": 0.9
+          },
+          {
+            "label": "Field",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A group of horses running in a field",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A group of horses running in a field",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 14,
+      "frame_id": 1698,
+      "timestamp": 56.656600000000005,
+      "timestamp_formatted": "00:56",
+      "cluster_id": 1,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_014.jpg",
+      "importance_score": 0.5148,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.231,
+        "representativeness": 1.0,
+        "visual_richness": 0.126,
+        "dominance": 0.167,
+        "temporal_coverage": 0.347,
+        "visual_novelty": 0.9
+      },
+      "deep_analysis": {
+        "caption": "A large mountain",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Large",
+            "score": 0.9
+          },
+          {
+            "label": "Mountain",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A large mountain",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A large mountain",
+      "domain": "Visual Analysis"
+    },
+    {
+      "index": 15,
+      "frame_id": 1746,
+      "timestamp": 58.2582,
+      "timestamp_formatted": "00:58",
+      "cluster_id": 7,
+      "distance_to_centroid": 0.024625,
+      "path": "summary/keyframe_015.jpg",
+      "importance_score": 0.5036,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.129,
+        "representativeness": 1.0,
+        "visual_richness": 0.126,
+        "dominance": 0.8,
+        "temporal_coverage": 0.347,
+        "visual_novelty": 0.5
+      },
+      "deep_analysis": {
+        "caption": "A large grassy field",
+        "domain": "Visual Analysis",
+        "objects": [
+          {
+            "label": "Large",
+            "score": 0.9
+          },
+          {
+            "label": "Grassy",
+            "score": 0.9
+          },
+          {
+            "label": "Field",
+            "score": 0.9
+          }
+        ],
+        "actions": [
+          {
+            "label": "A large grassy field",
+            "score": 1.0
+          }
+        ],
+        "environment": [
+          {
+            "label": "Captured Reality",
+            "score": 1.0
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Generative Precision",
+            "score": 1.0
+          }
+        ]
+      },
+      "context": "A large grassy field",
+      "domain": "Visual Analysis"
+    }
+  ],
+  "generated_at": "2026-01-08T22:16:54.912248",
+  "output_format": "jpg",
+  "grid_path": "summary/storyboard.jpg",
+  "video_pacing": "Moderate",
+  "summary_confidence": "HIGH",
+  "stability_ratio": 0.92,
+  "importance_weights": {
+    "representativeness": 0.25,
+    "dominance": 0.1,
+    "visual_richness": 0.2,
+    "temporal_coverage": 0.15,
+    "visual_novelty": 0.15,
+    "motion_context": 0.15
+  },
+  "compression_ratio": 2.28,
+  "redundancy_removed": 0.5455,
+  "temporal_coverage_score": 0.59,
+  "summary_reason": "Balanced content summarized into 15 key moments (~0.22 keyframes/sec)."
+}

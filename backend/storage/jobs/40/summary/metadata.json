@@ -1,0 +1,648 @@
+{
+  "job_id": 40,
+  "video_filename": "Matka Chicken.mp4",
+  "video_duration": 20.87,
+  "total_frames_original": 626,
+  "frames_after_filtering": 26,
+  "num_clusters": 10,
+  "keyframes": [
+    {
+      "index": 1,
+      "frame_id": 90,
+      "timestamp": 3.0,
+      "timestamp_formatted": "00:03",
+      "cluster_id": 5,
+      "distance_to_centroid": 0.067963,
+      "path": "summary/keyframe_001.jpg",
+      "importance_score": 0.7314,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 1.0,
+        "representativeness": 1.0,
+        "visual_richness": 0.172,
+        "dominance": 0.667,
+        "temporal_coverage": 0.727,
+        "visual_novelty": 0.8
+      },
+      "deep_analysis": {
+        "objects": [
+          {
+            "label": "Cooking pot",
+            "score": 0.85400390625
+          },
+          {
+            "label": "Frying pan",
+            "score": 0.05810546875
+          }
+        ],
+        "actions": [
+          {
+            "label": "Pouring liquid",
+            "score": 0.50830078125
+          },
+          {
+            "label": "Stirring ingredients",
+            "score": 0.35498046875
+          }
+        ],
+        "environment": [
+          {
+            "label": "Indoor kitchen",
+            "score": 0.359619140625
+          },
+          {
+            "label": "Wide angle",
+            "score": 0.2215576171875
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Fast paced motion",
+            "score": 0.28369140625
+          },
+          {
+            "label": "Blurry background",
+            "score": 0.279296875
+          }
+        ]
+      },
+      "context": "Pouring liquid featuring cooking pot."
+    },
+    {
+      "index": 2,
+      "frame_id": 105,
+      "timestamp": 3.5,
+      "timestamp_formatted": "00:03",
+      "cluster_id": 7,
+      "distance_to_centroid": 0.043075,
+      "path": "summary/keyframe_002.jpg",
+      "importance_score": 0.6678,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.638,
+        "representativeness": 1.0,
+        "visual_richness": 0.195,
+        "dominance": 0.667,
+        "temporal_coverage": 0.727,
+        "visual_novelty": 0.7
+      },
+      "deep_analysis": {
+        "objects": [
+          {
+            "label": "Food being prepared",
+            "score": 0.395263671875
+          },
+          {
+            "label": "Cooking pot",
+            "score": 0.25927734375
+          }
+        ],
+        "actions": [
+          {
+            "label": "Pouring liquid",
+            "score": 0.3291015625
+          },
+          {
+            "label": "Cooking food",
+            "score": 0.2261962890625
+          }
+        ],
+        "environment": [
+          {
+            "label": "Indoor kitchen",
+            "score": 0.8486328125
+          },
+          {
+            "label": "Office environment",
+            "score": 0.113037109375
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Fast paced motion",
+            "score": 0.480712890625
+          },
+          {
+            "label": "Busy",
+            "score": 0.22705078125
+          }
+        ]
+      },
+      "context": "Pouring liquid featuring food being prepared."
+    },
+    {
+      "index": 3,
+      "frame_id": 147,
+      "timestamp": 4.9,
+      "timestamp_formatted": "00:04",
+      "cluster_id": 10,
+      "distance_to_centroid": 0.070815,
+      "path": "summary/keyframe_003.jpg",
+      "importance_score": 0.7192,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.739,
+        "representativeness": 1.0,
+        "visual_richness": 0.228,
+        "dominance": 0.667,
+        "temporal_coverage": 0.727,
+        "visual_novelty": 0.9
+      },
+      "deep_analysis": {
+        "objects": [
+          {
+            "label": "Mixing bowl",
+            "score": 0.4013671875
+          },
+          {
+            "label": "Food being prepared",
+            "score": 0.2322998046875
+          }
+        ],
+        "actions": [
+          {
+            "label": "Pouring liquid",
+            "score": 0.708984375
+          },
+          {
+            "label": "Stirring ingredients",
+            "score": 0.1485595703125
+          }
+        ],
+        "environment": [
+          {
+            "label": "Indoor kitchen",
+            "score": 0.9365234375
+          },
+          {
+            "label": "Office environment",
+            "score": 0.03466796875
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Fast paced motion",
+            "score": 0.623046875
+          },
+          {
+            "label": "Blurry background",
+            "score": 0.10498046875
+          }
+        ]
+      },
+      "context": "Pouring liquid featuring mixing bowl."
+    },
+    {
+      "index": 4,
+      "frame_id": 269,
+      "timestamp": 8.966666666666667,
+      "timestamp_formatted": "00:08",
+      "cluster_id": 10,
+      "distance_to_centroid": 0.070815,
+      "path": "summary/keyframe_004.jpg",
+      "importance_score": 0.7049,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.581,
+        "representativeness": 1.0,
+        "visual_richness": 0.198,
+        "dominance": 0.667,
+        "temporal_coverage": 0.727,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "objects": [
+          {
+            "label": "Cooking pot",
+            "score": 0.416259765625
+          },
+          {
+            "label": "Food being prepared",
+            "score": 0.314208984375
+          }
+        ],
+        "actions": [
+          {
+            "label": "Stirring ingredients",
+            "score": 0.65185546875
+          },
+          {
+            "label": "Cooking food",
+            "score": 0.1324462890625
+          }
+        ],
+        "environment": [
+          {
+            "label": "Indoor kitchen",
+            "score": 0.84326171875
+          },
+          {
+            "label": "Close-up macro",
+            "score": 0.1123046875
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Fast paced motion",
+            "score": 0.54638671875
+          },
+          {
+            "label": "Vibrant colors",
+            "score": 0.22412109375
+          }
+        ]
+      },
+      "context": "Stirring ingredients featuring cooking pot."
+    },
+    {
+      "index": 5,
+      "frame_id": 374,
+      "timestamp": 12.466666666666667,
+      "timestamp_formatted": "00:12",
+      "cluster_id": 6,
+      "distance_to_centroid": 0.076887,
+      "path": "summary/keyframe_005.jpg",
+      "importance_score": 0.456,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.502,
+        "representativeness": 0.0,
+        "visual_richness": 0.205,
+        "dominance": 0.8,
+        "temporal_coverage": 0.727,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "objects": [
+          {
+            "label": "Cooking pot",
+            "score": 0.74365234375
+          },
+          {
+            "label": "Food being prepared",
+            "score": 0.23388671875
+          }
+        ],
+        "actions": [
+          {
+            "label": "Cooking food",
+            "score": 0.55029296875
+          },
+          {
+            "label": "Preparing meal",
+            "score": 0.2259521484375
+          }
+        ],
+        "environment": [
+          {
+            "label": "Indoor kitchen",
+            "score": 0.900390625
+          },
+          {
+            "label": "Close-up macro",
+            "score": 0.03179931640625
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Busy",
+            "score": 0.6689453125
+          },
+          {
+            "label": "Warm tones",
+            "score": 0.07623291015625
+          }
+        ]
+      },
+      "context": "Cooking food featuring cooking pot."
+    },
+    {
+      "index": 6,
+      "frame_id": 431,
+      "timestamp": 14.366666666666667,
+      "timestamp_formatted": "00:14",
+      "cluster_id": 2,
+      "distance_to_centroid": 0.034373,
+      "path": "summary/keyframe_006.jpg",
+      "importance_score": 0.4391,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.343,
+        "representativeness": 1.0,
+        "visual_richness": 0.105,
+        "dominance": 0.667,
+        "temporal_coverage": 0.325,
+        "visual_novelty": 0.0
+      },
+      "deep_analysis": {
+        "objects": [
+          {
+            "label": "Frying pan",
+            "score": 0.43359375
+          },
+          {
+            "label": "Food being prepared",
+            "score": 0.259033203125
+          }
+        ],
+        "actions": [
+          {
+            "label": "Cooking food",
+            "score": 0.384033203125
+          },
+          {
+            "label": "Pouring liquid",
+            "score": 0.29443359375
+          }
+        ],
+        "environment": [
+          {
+            "label": "Indoor kitchen",
+            "score": 0.434814453125
+          },
+          {
+            "label": "Close-up macro",
+            "score": 0.3896484375
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Fast paced motion",
+            "score": 0.66943359375
+          },
+          {
+            "label": "Blurry background",
+            "score": 0.127685546875
+          }
+        ]
+      },
+      "context": "Cooking food featuring frying pan."
+    },
+    {
+      "index": 7,
+      "frame_id": 459,
+      "timestamp": 15.3,
+      "timestamp_formatted": "00:15",
+      "cluster_id": 0,
+      "distance_to_centroid": 0.036921,
+      "path": "summary/keyframe_007.jpg",
+      "importance_score": 0.5669,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.658,
+        "representativeness": 1.0,
+        "visual_richness": 0.209,
+        "dominance": 0.8,
+        "temporal_coverage": 0.325,
+        "visual_novelty": 0.3
+      },
+      "deep_analysis": {
+        "objects": [
+          {
+            "label": "Food being prepared",
+            "score": 0.498779296875
+          },
+          {
+            "label": "Cooking pot",
+            "score": 0.307373046875
+          }
+        ],
+        "actions": [
+          {
+            "label": "Stirring ingredients",
+            "score": 0.33056640625
+          },
+          {
+            "label": "Preparing meal",
+            "score": 0.265625
+          }
+        ],
+        "environment": [
+          {
+            "label": "Close-up macro",
+            "score": 0.5322265625
+          },
+          {
+            "label": "Indoor kitchen",
+            "score": 0.365966796875
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Vibrant colors",
+            "score": 0.255615234375
+          },
+          {
+            "label": "Fast paced motion",
+            "score": 0.251708984375
+          }
+        ]
+      },
+      "context": "Stirring ingredients featuring food being prepared."
+    },
+    {
+      "index": 8,
+      "frame_id": 538,
+      "timestamp": 17.933333333333334,
+      "timestamp_formatted": "00:17",
+      "cluster_id": 6,
+      "distance_to_centroid": 0.036171,
+      "path": "summary/keyframe_008.jpg",
+      "importance_score": 0.6601,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.684,
+        "representativeness": 1.0,
+        "visual_richness": 0.208,
+        "dominance": 0.8,
+        "temporal_coverage": 0.325,
+        "visual_novelty": 0.9
+      },
+      "deep_analysis": {
+        "objects": [
+          {
+            "label": "Cooking pot",
+            "score": 0.456298828125
+          },
+          {
+            "label": "Food being prepared",
+            "score": 0.38427734375
+          }
+        ],
+        "actions": [
+          {
+            "label": "Preparing meal",
+            "score": 0.33251953125
+          },
+          {
+            "label": "Cooking food",
+            "score": 0.322265625
+          }
+        ],
+        "environment": [
+          {
+            "label": "Indoor kitchen",
+            "score": 0.82763671875
+          },
+          {
+            "label": "Busy public place",
+            "score": 0.055450439453125
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Busy",
+            "score": 0.370361328125
+          },
+          {
+            "label": "Warm tones",
+            "score": 0.1832275390625
+          }
+        ]
+      },
+      "context": "Preparing meal featuring cooking pot."
+    },
+    {
+      "index": 9,
+      "frame_id": 553,
+      "timestamp": 18.433333333333334,
+      "timestamp_formatted": "00:18",
+      "cluster_id": 3,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_009.jpg",
+      "importance_score": 0.6436,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.873,
+        "representativeness": 1.0,
+        "visual_richness": 0.219,
+        "dominance": 0.333,
+        "temporal_coverage": 0.325,
+        "visual_novelty": 0.9
+      },
+      "deep_analysis": {
+        "objects": [
+          {
+            "label": "Frying pan",
+            "score": 0.6640625
+          },
+          {
+            "label": "Food being prepared",
+            "score": 0.2259521484375
+          }
+        ],
+        "actions": [
+          {
+            "label": "Preparing meal",
+            "score": 0.7177734375
+          },
+          {
+            "label": "Cooking food",
+            "score": 0.1993408203125
+          }
+        ],
+        "environment": [
+          {
+            "label": "Indoor kitchen",
+            "score": 0.82861328125
+          },
+          {
+            "label": "Wide angle",
+            "score": 0.07830810546875
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Blurry background",
+            "score": 0.28515625
+          },
+          {
+            "label": "Fast paced motion",
+            "score": 0.19287109375
+          }
+        ]
+      },
+      "context": "Preparing meal featuring frying pan."
+    },
+    {
+      "index": 10,
+      "frame_id": 608,
+      "timestamp": 20.266666666666666,
+      "timestamp_formatted": "00:20",
+      "cluster_id": 9,
+      "distance_to_centroid": 0.0,
+      "path": "summary/keyframe_010.jpg",
+      "importance_score": 0.6647,
+      "importance_confidence": "MEDIUM",
+      "importance_factors": {
+        "motion_context": 0.908,
+        "representativeness": 1.0,
+        "visual_richness": 0.227,
+        "dominance": 0.333,
+        "temporal_coverage": 0.325,
+        "visual_novelty": 1.0
+      },
+      "deep_analysis": {
+        "objects": [
+          {
+            "label": "Frying pan",
+            "score": 0.481201171875
+          },
+          {
+            "label": "Food being prepared",
+            "score": 0.41162109375
+          }
+        ],
+        "actions": [
+          {
+            "label": "Preparing meal",
+            "score": 0.65234375
+          },
+          {
+            "label": "Cooking food",
+            "score": 0.259521484375
+          }
+        ],
+        "environment": [
+          {
+            "label": "Indoor kitchen",
+            "score": 0.671875
+          },
+          {
+            "label": "Office environment",
+            "score": 0.138671875
+          }
+        ],
+        "attributes": [
+          {
+            "label": "Blurry background",
+            "score": 0.42724609375
+          },
+          {
+            "label": "Fast paced motion",
+            "score": 0.1754150390625
+          }
+        ]
+      },
+      "context": "Preparing meal featuring frying pan."
+    }
+  ],
+  "generated_at": "2026-01-08T21:51:58.383262",
+  "output_format": "jpg",
+  "grid_path": "summary/storyboard.jpg",
+  "video_pacing": "Fast",
+  "summary_confidence": "HIGH",
+  "stability_ratio": 1.0,
+  "importance_weights": {
+    "representativeness": 0.25,
+    "dominance": 0.1,
+    "visual_richness": 0.2,
+    "temporal_coverage": 0.15,
+    "visual_novelty": 0.15,
+    "motion_context": 0.15
+  },
+  "compression_ratio": 1.04,
+  "redundancy_removed": 0.6154,
+  "temporal_coverage_score": 0.53,
+  "summary_reason": "High motion content summarized into 10 key moments (~0.48 keyframes/sec)."
+}
